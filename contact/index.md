@@ -20,14 +20,14 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(402)559-5100"
+  link="+1-402-559-5100"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/"
+  link="https://www.google.com/maps/place/Durham+Research+Center+II/@41.2555807,-95.9808617,16z/data=!4m15!1m8!3m7!1s0x87938e782fb074db:0xbe2fb8a5e591fab4!2sDurham+Research+Center+1,+S+45th+St,+Omaha,+NE+68131!3b1!8m2!3d41.2555807!4d-95.9808617!16s%2Fg%2F11_s0l5bl!3m5!1s0x87938e784ab1bc8b:0xf629a43420af9bf2!8m2!3d41.2548634!4d-95.9811769!16s%2Fg%2F11c5_1v4y_?entry=ttu&g_ep=EgoyMDI1MDExMC4wIKXMDSoASAFQAw%3D%3D"
 %}
 
 {% include section.html %}
