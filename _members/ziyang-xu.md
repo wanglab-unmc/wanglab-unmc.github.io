@@ -2,7 +2,7 @@
 name: Ziyang Xu
 image: images/photo.jpg
 description: Research Imaging Analyst
-role: programmer
+role: tech
 
 ---
 
