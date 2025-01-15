@@ -14,6 +14,8 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 ## Research Technician
 {% include list.html data="members" component="portrait" filter="role == 'tech'" %}
+## Intern Students
+{% include list.html data="members" component="portrait" filter="role == 'intern'" %}
 {% include section.html %}
 ## Alumni
 {% include list.html data="members" component="portrait" filter="group == 'alum'" %}
