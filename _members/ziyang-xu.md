@@ -1,6 +1,6 @@
 ---
 name: Ziyang Xu
-image: images/photo.jpg
+image: images/ziyangxu.jpg
 description: Research Imaging Analyst
 role: tech
 
