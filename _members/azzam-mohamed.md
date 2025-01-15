@@ -1,7 +1,7 @@
 ---
-name: John Doe
+name: Mohamed Azzam
 image: images/photo.jpg
-role: phd
+role: postdoc
 group: alum
 links:
   github: john-doe
