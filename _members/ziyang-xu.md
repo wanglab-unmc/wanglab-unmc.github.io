@@ -1,11 +1,9 @@
 ---
-name: Sarah Johnson
+name: Ziyang Xu
 image: images/photo.jpg
-description: Lead Programmer
+description: Research Imaging Analyst
 role: programmer
-links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
