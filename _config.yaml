@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: wanglab-unmc
+title: Wang Lab at UNMC
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
@@ -8,12 +8,9 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@wanglab-unmc.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: wanglab-unmc
-  twitter: wanglab-unmc
-  youtube: wanglab-unmc
+  email: jiwang@unmc.edu
+  google-scholar: https://scholar.google.com/citations?user=5NSL258AAAAJ&hl
+  github: https://github.com/wanglab-unmc
 
 ### jekyll settings
 
