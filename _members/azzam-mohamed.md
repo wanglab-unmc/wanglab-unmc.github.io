@@ -1,6 +1,6 @@
 ---
 name: Mohamed Azzam
-image: images/photo.jpg
+image: images/azzam.jpg
 role: postdoc
 group: alum
 links:
