@@ -9,7 +9,7 @@ proofer: false
 # site social media and other links
 links:
   email: jiwang@unmc.edu
-  google-scholar: https://scholar.google.com/citations?user=5NSL258AAAAJ&hl
+  google-scholar: https://scholar.google.com/citations?user=5NSL258AAAAJ
   github: https://github.com/wanglab-unmc
 
 ### jekyll settings
