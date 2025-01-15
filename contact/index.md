@@ -27,7 +27,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="[https://www.google.com/maps](https://www.google.com/maps/place/Durham+Research+Center+II/@41.2548634,-95.9837518,16z/data=!3m1!4b1!4m6!3m5!1s0x87938e784ab1bc8b:0xf629a43420af9bf2!8m2!3d41.2548634!4d-95.9811769!16s%2Fg%2F11c5_1v4y_?entry=ttu&g_ep=EgoyMDI1MDExMC4wIKXMDSoASAFQAw%3D%3D)"
 %}
 
 {% include section.html %}
