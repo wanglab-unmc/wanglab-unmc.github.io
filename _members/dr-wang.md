@@ -1,13 +1,10 @@
 ---
-name: Jane Smith
+name: Jieqiong Wang
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
-aliases:
-  - J. Smith
-  - J Smith
+affiliation: University of Nebraska Medical Center
 links:
-  home-page: https://janesmith.com
+  google-scholar-page: https://scholar.google.com/citations?user=5NSL258AAAAJ
   orcid: 0000-0001-8713-9213
 ---
 
