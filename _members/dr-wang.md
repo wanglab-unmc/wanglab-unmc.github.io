@@ -1,7 +1,7 @@
 ---
 name: Jieqiong Wang, PhD
 image: images/photo.jpg
-role: Assistant Professor
+role: pi
 affiliation: Department of Neurological Sciences, University of Nebraska Medical Center
 links:
   google-scholar-page: https://scholar.google.com/citations?user=5NSL258AAAAJ
