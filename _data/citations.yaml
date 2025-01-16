@@ -1,19 +1,29 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2024.11.12.623073
-  title: 'Functional Connectivity Alterations in Cocaine Use Disorder: Insights from
-    the Triple Network Model and the Addictions Neuroclinical Assessment Framework'
+- id: doi:10.3390/biom14040409
+  title: A Review for Artificial Intelligence Based Protein Subcellular Localization
   authors:
-  - Ziyang Xu
-  - Lie Li
-  - Ruobing Liu
-  - Mohamed Azzam
-  - Shibiao Wan
+  - Hanyu Xiao
+  - Yijin Zou
   - Jieqiong Wang
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-11-14'
-  link: https://doi.org/g8z7sm
-  orcid: 0009-0000-4550-1544
+  - Shibiao Wan
+  publisher: Biomolecules
+  date: '2024-03-27'
+  link: https://doi.org/g8z7sr
+  orcid: 0009-0009-2040-9552
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20944/preprints202403.0120.v1
+  title: A Review for Artificial Intelligence Based Protein Subcellular Localization
+  authors:
+  - Hanyu Xiao
+  - Yijin Zou
+  - Jieqiong Wang
+  - Shibiao Wan
+  publisher: MDPI AG
+  date: '2024-03-04'
+  link: https://doi.org/g8z7ss
+  orcid: 0009-0009-2040-9552
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
