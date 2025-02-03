@@ -16,8 +16,8 @@
   date: '2024-10-22'
   link: https://doi.org/g8z7sw
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: This review paper presents recent machine learning techniques used
+    in brain age estimation (BAE) studies.
   buttons:
   - type: website
     link: https://academic.oup.com/bfg/article-abstract/doi/10.1093/bfgp/elae042/7831150
@@ -164,5 +164,68 @@
   publisher: Frontiers in Systems Neuroscience
   date: '2012-01-01'
   link: https://doi.org/ggrr3z
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.neuropsychologia.2020.107549
+  title: Neural and behavioral correlates of episodic memory are associated with temporal
+    discounting in older adults
+  authors:
+  - Karolina M. Lempert
+  - Dawn J. Mechanic-Hamilton
+  - Long Xie
+  - Laura E.M. Wisse
+  - Robin de Flores
+  - Jieqiong Wang
+  - Sandhitsu R. Das
+  - Paul A. Yushkevich
+  - David A. Wolk
+  - Joseph W. Kable
+  publisher: Neuropsychologia
+  date: '2020-09-01'
+  link: https://doi.org/gjtt7t
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/s11682-016-9597-3
+  title: 'Altered functional connectivity within and between the default model network
+    and the visual network in primary open-angle glaucoma: a resting-state fMRI study'
+  authors:
+  - Jieqiong Wang
+  - Ting Li
+  - Peng Zhou
+  - Ningli Wang
+  - Junfang Xian
+  - Huiguang He
+  publisher: Brain Imaging and Behavior
+  date: '2016-10-04'
+  link: https://doi.org/gj26pq
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/s00330-016-4221-x
+  title: Graph theoretical analysis reveals the reorganization of the brain network
+    pattern in primary open angle glaucoma patients
+  authors:
+  - Jieqiong Wang
+  - Ting Li
+  - Ningli Wang
+  - Junfang Xian
+  - Huiguang He
+  publisher: European Radiology
+  date: '2016-02-11'
+  link: https://doi.org/gj26pj
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1155/2016/9849087
+  title: Functional Reorganizations of Brain Network in Prelingually Deaf Adolescents
+  authors:
+  - Wenjing Li
+  - Jianhong Li
+  - Jieqiong Wang
+  - Peng Zhou
+  - Zhenchang Wang
+  - Junfang Xian
+  - Huiguang He
+  publisher: Neural Plasticity
+  date: '2016-01-01'
+  link: https://doi.org/gcfh2r
   plugin: sources.py
   file: sources.yaml
