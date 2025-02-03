@@ -229,3 +229,35 @@
   link: https://doi.org/gcfh2r
   plugin: sources.py
   file: sources.yaml
+- id: 10.1038/s41598-017-04148-z
+  title: 'Altered Spontaneous Brain Activity in Children with Early Tourette Syndrome:
+    a Resting-state fMRI Study'
+  authors:
+  - Yue Liu
+  - Jieqiong Wang
+  - Jishui Zhang
+  - Hongwei Wen
+  - Yue Zhang
+  - Huiying Kang
+  - Xu Wang
+  - Wenfeng Li
+  - Huiguang He
+  - Yun Peng
+  publisher: Scientific Reports
+  date: '2017-07-06'
+  link: https://doi.org/gbnz4v
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.3389/fnhum.2017.00473
+  title: Is Congenital Amusia a Disconnection Syndrome? A Study Combining Tract- and
+    Network-Based Analysis
+  authors:
+  - Jieqiong Wang
+  - Caicai Zhang
+  - Shibiao Wan
+  - Gang Peng
+  publisher: Frontiers in Human Neuroscience
+  date: '2017-09-29'
+  link: https://doi.org/g83v97
+  plugin: sources.py
+  file: sources.yaml
