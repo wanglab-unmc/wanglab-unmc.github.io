@@ -1,7 +1,7 @@
 ---
 name: Ruobing Liu
-image: images/photo.jpg
+image: images/ruobing.jpg
 role: phd
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ruobing held Bachelor degree in Biotechnology at Jinan University and Biology at Uppsala University. She also held Master degree in Computer Science at Stevens Institute of Technology. Currently she is a Ph.D student majoring in Biomedical Informatics at University of Nebraska Medical Center with Dr. Wang. Her research focusing on medical image processing.
