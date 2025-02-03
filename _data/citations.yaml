@@ -27,7 +27,61 @@
   repo: wanglab/brainage-review
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2024.11.12.623073
+- id: 10.1371/journal.pone.0076105
+  title: 'Structural Abnormalities in Early Tourette Syndrome Children: A Combined
+    Voxel-Based Morphometry and Tract-Based Spatial Statistics Study'
+  authors:
+  - Yue Liu
+  - Wen Miao
+  - Jieqiong Wang
+  - Peiyi Gao
+  - Guangheng Yin
+  - Liping Zhang
+  - Chuankai Lv
+  - Zhiying Ji
+  - Tong Yu
+  - B. A. Sabel
+  - Huiguang He
+  - Yun Peng
+  publisher: PLoS ONE
+  date: '2013-09-30'
+  link: https://doi.org/g83v9t
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1111/adb.12644
+  title: "Classifying and characterizing nicotine use disorder with high accuracy\
+    \ using machine learning and resting\u2010state <scp>fMRI</scp>"
+  authors:
+  - Reagan R. Wetherill
+  - Hengyi Rao
+  - Nathan Hager
+  - Jieqiong Wang
+  - Teresa R. Franklin
+  - Yong Fan
+  publisher: Addiction Biology
+  date: '2018-06-27'
+  link: https://doi.org/gmnq2b
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1002/hbm.23146
+  title: "Combining tract\u2010 and atlas\u2010based analysis reveals microstructural\
+    \ abnormalities in early Tourette syndrome children"
+  authors:
+  - Hongwei Wen
+  - Yue Liu
+  - Jieqiong Wang
+  - Islem Rekik
+  - Jishui Zhang
+  - Yue Zhang
+  - Hongwei Tian
+  - Yun Peng
+  - Huiguang He
+  publisher: Human Brain Mapping
+  date: '2016-03-01'
+  link: https://doi.org/g83v9v
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1101/2024.11.12.623073
   title: 'Functional Connectivity Alterations in Cocaine Use Disorder: Insights from
     the Triple Network Model and the Addictions Neuroclinical Assessment Framework'
   authors:
