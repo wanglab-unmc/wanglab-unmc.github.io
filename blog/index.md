@@ -9,7 +9,5 @@ nav:
 
 We are actively looking for new members. Welcome to join us!
 
-{% include section.html %}
-
-Prospective postdocs
+## Prospective postdocs
 
