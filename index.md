@@ -3,7 +3,7 @@
 
 # Wang Lab
 
-An engaging 1-3 sentence description of your lab.
+Dr. Wang's laboratory focuses on the intersection of machine learning and medical imaging. The lab develops and applies methods in machine learning, artificial intelligence, and data science to process and analyze medical images to understand the mechanisms of diseases and build diagnostic/predictive models.
 
 {% include section.html %}
 
