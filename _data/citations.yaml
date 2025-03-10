@@ -526,15 +526,15 @@
   link: https://doi.org/g83wkq
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1101/2025.02.24.640010
+- id: 10.1101/2025.02.24.640010
   title: Accurate identification of medulloblastoma subtypes from diverse data sources
     with severe batch effects by RaMBat
   authors:
   - Mengtao Sun
   - Jieqiong Wang
   - Shibiao Wan
-  publisher: bioRxiv
+  publisher: Cold Spring Harbor Laboratory
   date: '2025-02-28'
-  link: https://www.biorxiv.org/content/10.1101/2025.02.24.640010v1
+  link: https://doi.org/g87p3m
   plugin: sources.py
   file: sources.yaml
