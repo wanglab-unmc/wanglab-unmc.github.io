@@ -9,7 +9,7 @@ nav:
 
 We are actively looking for new members. Welcome to join us!
 
-## Prospective postdocs
+## <summary>Prospective postdocs</summary>
 
 ## Prospective PhD students
 **Responsibilities:**
