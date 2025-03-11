@@ -1,7 +1,7 @@
 ---
 title: Positions
 nav:
-  order: 4
+  order: 5
   tooltip: Opening positions
 ---
 
