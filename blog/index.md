@@ -9,9 +9,12 @@ nav:
 
 We are actively looking for new members. Welcome to join us!
 <details>
+  
 <summary>Prospective postdocs</summary>
+
 </details>
 <details>
+  
 <summary>Prospective PhD students</summary>
 
 **Responsibilities:**
@@ -46,4 +49,5 @@ Fully funded support, specific financial support according to the relevant progr
 
 **Application Process:**
 Applicants should send their personal resume (including basic personal information, educational background, work experience, research achievements, and contact information), transcripts, and English proficiency scores (IELTS, TOEFL, or Duolingo) to: jiwang@unmc.edu. All application materials will be kept strictly confidential. Candidates who pass the initial review will be contacted for an interview shortly.
+
 </details>
