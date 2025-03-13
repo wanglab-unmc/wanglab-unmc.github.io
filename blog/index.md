@@ -83,3 +83,35 @@ We are actively looking for new members. Welcome to join us!
   <p><strong>Application Process:</strong></p>
   <p>Applicants should send their personal resume (including basic personal information, educational background, work experience, research achievements, and contact information), transcripts, and English proficiency scores (IELTS, TOEFL, or Duolingo) to: <a href="mailto:jiwang@unmc.edu">jiwang@unmc.edu</a>. All application materials will be kept strictly confidential. Candidates who pass the initial review will be contacted for an interview shortly.</p>
 </details>
+
+<details>
+  <summary style="font-size: 1.2em; font-weight: bold; cursor: pointer;">
+    Prospective Research Assistants
+  </summary>
+
+  <p><strong>Position Summary:</strong></p>
+  <p>
+    The position will work at Dr. WANG’s Lab in the Department of Neurological Sciences, collaborating with the principal investigator and research team to coordinate, develop, and conduct clinical research projects aimed at improving patient health, disease treatment, and quality of life in individuals who are aging or have neurological, psychiatric, physiologic, or other medical disorders. 
+  </p>
+  <p>
+    The research assistant will support clinical research projects from start to finish, ensuring successful communication, coordination, regulatory and protocol compliance, and collaboration across a diverse, multidisciplinary team to meet project goals. The position requires independence, responsibility, accountability, self-motivation, strong communication skills, and the ability to complete detailed tasks accurately and with high quality.
+  </p>
+  <p>
+    The position will also contribute to developing and/or applying artificial intelligence, machine learning, and image segmentation and/or data science-based methods in medical imaging processing.
+  </p>
+
+  <p><strong>Required Education:</strong></p>
+  <p>Bachelor's degree or equivalent.</p>
+
+  <p><strong>Required Knowledge, Skills, and Abilities:</strong></p>
+  <ul>
+    <li>Experience related to healthcare, laboratory, and/or clinical research.</li>
+    <li>Highly proficient in medical imaging toolboxes/software, including FreeSurfer, FSL, AFNI, SPM, ANTs, ITK, c3d, SurfStat, NODDI, GIFT, CONN, GRETNA, SPSS, etc.</li>
+    <li>Experience in data management and/or data analysis in the medical field.</li>
+  </ul>
+
+  <p>Questions may be directed to Dr. Jieqiong Wang at <a href="mailto:jiwang@unmc.edu">jiwang@unmc.edu</a>.</p>
+
+  <p>Applications are being accepted online at: <a href="https://unmc.peopleadmin.com/postings/88740" target="_blank">Apply Here</a>.</p>
+
+</details>
