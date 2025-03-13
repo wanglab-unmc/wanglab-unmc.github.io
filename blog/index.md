@@ -8,6 +8,17 @@ nav:
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Positions
 
 We are actively looking for new members. Welcome to join us!
+
+<details>
+  <summary style="font-size: 1.2em; font-weight: bold; cursor: pointer;">
+    Prospective PhD Students
+  </summary>
+  <p>
+    We are always looking for motivated PhD students interested in cognitive neuroscience, AI, and brain research. 
+    If you're interested, please check our lab’s research areas and send an email with your CV and research interests.
+  </p>
+</details>
+
 <details>
   
 <summary>Prospective PhD students</summary>
