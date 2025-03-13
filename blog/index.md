@@ -18,7 +18,7 @@ We are actively looking for new members. Welcome to join us!
   
 <summary>Prospective PhD students</summary>
 
-## Responsibilities:
+### Responsibilities:
 1. Independently undertake scientific research tasks and projects;
 2. Participate in core laboratory research projects;
 3. Engage in other related research activities within the university and department.
