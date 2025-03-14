@@ -19,5 +19,3 @@ nav:
 {% include section.html %}
 ## Alumni
 {% include list.html data="members" component="portrait" filter="role == 'alum'" %}
-{% include section.html %}
-## Join us!
