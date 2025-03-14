@@ -16,7 +16,7 @@ Dr. Wang's laboratory focuses on the intersection of machine learning and medica
       <img src="images/cocaine_fig1.png" class="d-block w-100" style="height: 400px; object-fit: cover;" alt="Image 1">
     </div>
     <div class="carousel-item">
-      <img src="images/photo.jpg" class="d-block w-100" style="height: 400px; object-fit: cover;" alt="Image 2">
+      <img src="images/elae042f1.jpg" class="d-block w-100" style="height: 400px; object-fit: cover;" alt="Image 2">
     </div>
     <div class="carousel-item">
       <img src="images/photo.jpg" class="d-block w-100" style="height: 400px; object-fit: cover;" alt="Image 3">
