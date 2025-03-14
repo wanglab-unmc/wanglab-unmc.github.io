@@ -24,3 +24,4 @@ Dr. Wang's laboratory focuses on the intersection of machine learning and medica
   </div>
 </div>
 
+{% include section.html %}
