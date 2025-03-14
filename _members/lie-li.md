@@ -2,7 +2,7 @@
 name: Lie Li
 image: images/photo.jpg
 description: Intern Student
-role: intern
+role: alum
 
 ---
 
