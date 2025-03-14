@@ -12,12 +12,12 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 ## Students
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
-## Research Technician
+## Research Assistant
 {% include list.html data="members" component="portrait" filter="role == 'tech'" %}
 ## Intern Students
 {% include list.html data="members" component="portrait" filter="role == 'intern'" %}
 {% include section.html %}
 ## Alumni
-{% include list.html data="members" component="portrait" filter="group == 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'alum'" %}
 {% include section.html %}
 ## Join us!
