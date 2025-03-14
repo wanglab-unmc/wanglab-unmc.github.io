@@ -16,13 +16,13 @@ Dr. Wang's laboratory focuses on the intersection of machine learning and medica
 <div id="imageCarousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="photo.jpg" class="d-block w-100" alt="Image 1">
+      <img src="images/photo.jpg" class="d-block w-100" alt="Image 1">
     </div>
     <div class="carousel-item">
-      <img src="photo.jpg" class="d-block w-100" alt="Image 2">
+      <img src="images/photo.jpg" class="d-block w-100" alt="Image 2">
     </div>
     <div class="carousel-item">
-      <img src="photo.jpg" class="d-block w-100" alt="Image 3">
+      <img src="images/photo.jpg" class="d-block w-100" alt="Image 3">
     </div>
   </div>
 </div>
