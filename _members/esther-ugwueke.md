@@ -1,6 +1,7 @@
 ---
 name: Esther Ugwueke
 image: images/esther.jpg
+description: PhD Student
 role: phd
 ---
 
