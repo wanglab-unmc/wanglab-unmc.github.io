@@ -47,7 +47,7 @@
 }
 
 .news-title {
-  font-weight: var(--semi-bold);
+  text-decoration: none;
 }
 
 .news-text > .icon {
