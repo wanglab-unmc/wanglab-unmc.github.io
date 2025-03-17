@@ -11,4 +11,4 @@ nav:
 
 {% include search-info.html %}
 
-{% include list.html data="news" component="citation" style="rich" %}
+{% include list.html data="news" component="news" style="rich" %}
