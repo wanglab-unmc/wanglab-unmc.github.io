@@ -1,0 +1,72 @@
+<div class="news-container">
+  <div class="news">
+    {% if include.style == "rich" %}
+      <a
+        {% if news.link %}
+          href="{{ news.link | relative_url | uri_escape }}"
+        {% endif %}
+        class="news-image"
+        aria-label="{{ news.title | default: "news link" | regex_strip }}"
+      >
+        <img
+          src="{{ news.image | relative_url | uri_escape }}"
+          alt="{{ news.title | default: "news image" | regex_strip }}"
+          loading="lazy"
+          {% include fallback.html %}
+        >
+      </a>
+    {% endif %}
+
+    <div class="news-text">
+      {% assign type = site.data.types[news.type] %}
+      {% include icon.html icon=type.icon %}
+
+      <a
+        {% if news.link %}
+          href="{{ news.link | relative_url | xml_escape }}"
+        {% endif %}
+        class="news-title"
+      >
+        {{ news.title | default: "[no title info]" }}
+      </a>
+
+      <div class="news-details">
+        <span class="news-date">
+          {{- news.date | default: "[no date info]" | date: "%d %b %Y" -}}
+        </span>
+      </div>
+
+      {% if include.style == "rich" %}
+        {% if news.description %}
+          <div class="news-description">
+            {{
+              news.description
+              | markdownify
+              | remove: "<p>"
+              | remove: "</p>"
+            }}
+          </div>
+        {% endif %}
+
+        {% if news.buttons.size > 0 %}
+          <div class="news-buttons">
+            {% for button in news.buttons %}
+              {%
+                include button.html
+                type=button.type
+                icon=button.icon
+                text=button.text
+                link=button.link
+                style="bare"
+              %}
+            {% endfor %}
+          </div>
+        {% endif %}
+
+        {% if news.tags.size > 0 or news.repo %}
+          {% include tags.html tags=news.tags repo=news.repo %}
+        {% endif %}
+      {% endif %}
+    </div>
+  </div>
+</div>
