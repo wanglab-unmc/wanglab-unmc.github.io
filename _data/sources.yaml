@@ -1,13 +1,6 @@
 - id: doi:10.1093/bfgp/elae042
   type: paper
   description: This review paper presents recent machine learning techniques used in brain age estimation (BAE) studies.
-  buttons:
-    - type: website
-      link: https://academic.oup.com/bfg/article-abstract/doi/10.1093/bfgp/elae042/7831150
-  tags:
-    - machine learning
-    - brain age
-  repo: wanglab/brainage-review
 
 - id: 10.1371/journal.pone.0076105
 
