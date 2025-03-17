@@ -25,3 +25,33 @@ Dr. Wang's laboratory focuses on the intersection of machine learning and medica
 </div>
 
 {% include section.html %}
+## Latest News
+
+{% assign latest_news = site.data.news | sort: "date" | reverse | slice: 0, 5 %}
+
+{% for news in latest_news %}
+<div class="news">
+  {% if news.image %}
+    <a href="{{ news.link | relative_url | uri_escape }}" class="news-image">
+      <img src="{{ news.image | relative_url | uri_escape }}" alt="{{ news.title }}">
+    </a>
+  {% endif %}
+
+  <div class="news-text">
+    <a href="{{ news.link | relative_url | uri_escape }}" class="news-title">
+      {{ news.title }}
+    </a>
+
+    <div class="news-details">
+      <span class="news-date">{{ news.date | date: "%b %d, %Y" }}</span>
+    </div>
+
+    {% if news.description %}
+      <div class="news-description">
+        {{ news.description | markdownify | remove: "<p>" | remove: "</p>" }}
+      </div>
+    {% endif %}
+  </div>
+</div>
+{% endfor %}
+
