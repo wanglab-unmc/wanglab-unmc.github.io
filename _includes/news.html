@@ -60,16 +60,8 @@
       </div>
 
       <div class="news-details">
-        <span class="news-publisher">
-          {{- news.publisher | default: "[no publisher info]" -}}
-        </span>
-        &nbsp;·&nbsp;
         <span class="news-date">
           {{- news.date | default: "[no date info]" | date: "%d %b %Y" -}}
-        </span>
-        &nbsp;·&nbsp;
-        <span class="news-id">
-          {{- news.id | default: "[no id info]" -}}
         </span>
       </div>
 
