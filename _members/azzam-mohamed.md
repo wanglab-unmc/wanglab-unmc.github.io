@@ -5,4 +5,4 @@ description: Postdoctoral Research Associate
 role: postdoc
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Azzam is currently working at Wang Lab as a Postdoctoral Research Associate.
