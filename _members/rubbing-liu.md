@@ -1,6 +1,7 @@
 ---
 name: Ruobing Liu
 image: images/ruobing.jpg
+description: PhD student
 role: phd
 ---
 
