@@ -1,7 +1,7 @@
 ---
 name: Mohamed Azzam
 image: images/azzam.jpg
-description: Postdoc
+description: Postdoctoral Research Associate
 role: postdoc
 ---
 
