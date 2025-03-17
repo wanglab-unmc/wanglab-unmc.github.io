@@ -1,0 +1,103 @@
+---
+---
+
+$thumb-size: 180px;
+$wrap: 800px;
+
+.news-container {
+  container-type: inline-size;
+}
+
+.news {
+  display: flex;
+  margin: 20px 0;
+  border-radius: var(--rounded);
+  background: var(--background);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
+.news-image {
+  position: relative;
+  width: $thumb-size;
+  flex-shrink: 0;
+  // box-shadow: var(--shadow);
+}
+
+.news-image img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.news-text {
+  position: relative;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  max-width: 100%;
+  height: min-content;
+  padding: 20px;
+  padding-left: 30px;
+  text-align: left;
+  overflow-wrap: break-word;
+  z-index: 0;
+}
+
+.news-title,
+.news-authors,
+.news-details,
+.news-description {
+  width: 100%;
+}
+
+.news-title {
+  font-weight: var(--semi-bold);
+}
+
+.news-text > .icon {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  color: var(--light-gray);
+  opacity: 0.5;
+  font-size: 30px;
+  z-index: -1;
+}
+
+.news-publisher {
+  text-transform: capitalize;
+}
+
+.news-description {
+  color: var(--gray);
+}
+
+.news-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.news-buttons .button {
+  margin: 0;
+}
+
+.news-text > .tags {
+  display: inline-flex;
+  justify-content: flex-start;
+  margin: 0;
+}
+
+@container (max-width: #{$wrap}) {
+  .news {
+    flex-direction: column;
+  }
+
+  .news-image {
+    width: unset;
+    height: $thumb-size;
+  }
+}
