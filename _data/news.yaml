@@ -1,7 +1,6 @@
-news:
-  - date: '2025-03-11'
-    title: 'Ziyang won the Best Poster Award at the CoNDA Center Colloquium. Congratulations!'
-  - date: '2025-03-11'
-    title: 'Dr. Wang gave a presentation on "The Association between Brain Age and DNA Methylation Age at the Global and the Local Level" at the CoNDA Center Colloquium.'
-  - date: '2024-10-22'
-    title: 'Our review paper of "A review of artificial intelligence-based brain age estimation and its applications for related diseases" was published on "Briefings in Functional Genomics." Congratulations to Azzam and all co-authors!'
+- date: '2025-03-11'
+  title: 'Ziyang won the Best Poster Award at the CoNDA Center Colloquium. Congratulations!'
+- date: '2025-03-11'
+  title: 'Dr. Wang gave a presentation on "The Association between Brain Age and DNA Methylation Age at the Global and the Local Level" at the CoNDA Center Colloquium.'
+- date: '2024-10-22'
+  title: 'Our review paper of "A review of artificial intelligence-based brain age estimation and its applications for related diseases" was published on "Briefings in Functional Genomics." Congratulations to Azzam and all co-authors!'
