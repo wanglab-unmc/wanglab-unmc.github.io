@@ -1,5 +1,5 @@
 {% if include.lookup %}
-  {% assign news = site.data.newss
+  {% assign news = site.data.news
     | where_exp: "news",
       "news.id == include.lookup or news.title contains include.lookup"
     | first
