@@ -1,8 +1,8 @@
 ---
 ---
 
-$thumb-size: 200px;
-$wrap: 800px;
+$thumb-size: 250px;
+$wrap: 900px;
 
 .research-container {
   container-type: inline-size;
@@ -11,20 +11,29 @@ $wrap: 800px;
 .research {
   display: flex;
   flex-direction: column;
-  margin: 20px 0;
+  align-items: center;
+  justify-content: center;
+  margin: 25px auto;
+  padding: 20px;
   border-radius: var(--rounded);
   background: var(--background);
-  overflow: hidden;
   box-shadow: var(--shadow);
-  padding: 20px;
+  max-width: $wrap;
+  text-align: center;
 }
 
 .research-title {
   font-weight: var(--semi-bold);
-  text-decoration: none;
-  font-size: 1.5em;
-  text-align: center;
+  font-size: 1.6em;
   margin-bottom: 15px;
+  text-align: center;
+  word-wrap: break-word;
+  width: 100%;
+}
+
+.research-title a {
+  text-decoration: none;
+  color: var(--text-color);
 }
 
 .research-image {
@@ -32,29 +41,33 @@ $wrap: 800px;
   justify-content: center;
   align-items: center;
   width: 100%;
-  height: $thumb-size;
+  max-width: $wrap;
+  height: auto;
   margin-bottom: 15px;
 }
 
 .research-image img {
   max-width: 100%;
-  max-height: 100%;
+  max-height: $thumb-size;
   object-fit: contain;
+  border-radius: var(--rounded);
 }
 
 .research-description {
   color: var(--gray);
-  text-align: center;
   font-size: 1em;
+  line-height: 1.5;
+  width: 100%;
+  max-width: $wrap;
+  text-align: justify;
 }
 
 @container (max-width: #{$wrap}) {
   .research {
-    flex-direction: column;
+    max-width: 100%;
   }
 
-  .research-image {
-    width: 100%;
-    height: auto;
+  .research-image img {
+    max-height: 200px;
   }
 }
