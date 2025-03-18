@@ -1,1 +1,1 @@
-Sitemap: https://wanglab-unmc.github.io/wanglab-unmc/sitemap.xml
+Sitemap: https://wanglab-unmc.github.io/sitemap.xml
