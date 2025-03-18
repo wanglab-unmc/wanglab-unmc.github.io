@@ -13,18 +13,5 @@ With the explosion of big data in medicine, artificial intelligence and machine 
 
 In addition, we have developed multiple interpretable ML models and frameworks for disease classification and image segmentation. Unlike the black-box nature of deep learning models, our models provide clear insights into aging and disease biomarkers, helping to improve disease understanding. Given our expertise at the intersection of machine learning, medical imaging processing, and cancer research, we are well-suited to lead this project.
 
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
-
 {% include section.html %}
 
-## Featured
-
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
