@@ -1,47 +1,27 @@
+---
+---
+
 $thumb-size: 180px;
 $wrap: 800px;
 
-/* Container for News Section */
 .news-container {
   container-type: inline-size;
 }
 
-/* 🔹 General News Styling */
 .news {
   display: flex;
-  flex-direction: column;
   margin: 20px 0;
   border-radius: var(--rounded);
   background: var(--background);
   overflow: hidden;
   box-shadow: var(--shadow);
-  padding: 20px;
 }
 
-.news-title {
-  font-weight: var(--semi-bold);
-  font-size: 18px;
-  text-decoration: none;
-  color: var(--primary);
-}
-
-.news-details {
-  font-size: 14px;
-  color: var(--gray);
-  margin-top: 5px;
-}
-
-.news-description {
-  font-size: 16px;
-  color: var(--dark-gray);
-  margin-top: 5px;
-}
-
-/* 🔹 Styles for Full News Page (`news/index.md`) */
 .news-image {
   position: relative;
   width: $thumb-size;
   flex-shrink: 0;
+  // box-shadow: var(--shadow);
 }
 
 .news-image img {
@@ -54,15 +34,28 @@ $wrap: 800px;
 
 .news-text {
   position: relative;
-  display: flex;
-  flex-direction: column;
+  display: inline-flex;
+  flex-wrap: wrap;
   gap: 10px;
   max-width: 100%;
   height: min-content;
   padding: 20px;
+  padding-left: 30px;
   text-align: left;
   overflow-wrap: break-word;
   z-index: 0;
+}
+
+.news-title,
+.news-authors,
+.news-details,
+.news-description {
+  width: 100%;
+}
+
+.news-title {
+  font-weight: var(--semi-bold);
+  text-decoration: none;
 }
 
 .news-text > .icon {
@@ -73,6 +66,14 @@ $wrap: 800px;
   opacity: 0.5;
   font-size: 30px;
   z-index: -1;
+}
+
+.news-publisher {
+  text-transform: capitalize;
+}
+
+.news-description {
+  color: var(--gray);
 }
 
 .news-buttons {
@@ -91,56 +92,6 @@ $wrap: 800px;
   margin: 0;
 }
 
-/* 🔹 Styles for the Latest News Section on Homepage */
-.latest-news {
-  margin-top: 40px;
-  padding: 20px;
-  background: var(--background);
-  border-radius: var(--rounded);
-  box-shadow: var(--shadow);
-}
-
-.news-list {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-
-.news-list li {
-  font-size: 16px;
-  padding: 5px 0;
-  border-bottom: 1px solid var(--light-gray);
-}
-
-.news-list li:last-child {
-  border-bottom: none;
-}
-
-.news-date {
-  font-weight: bold;
-  color: var(--primary-dark);
-}
-
-/* 🔹 "Load More" Button */
-.news-load-more {
-  text-align: center;
-  margin-top: 20px;
-}
-
-.news-load-more .button {
-  padding: 8px 16px;
-  background-color: var(--primary);
-  color: white;
-  border-radius: var(--rounded);
-  text-decoration: none;
-  display: inline-block;
-}
-
-.news-load-more .button:hover {
-  background-color: var(--primary-dark);
-}
-
-/* Responsive Design */
 @container (max-width: #{$wrap}) {
   .news {
     flex-direction: column;
