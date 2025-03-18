@@ -8,4 +8,4 @@
 
 - title: "Artificial intelligence and machine learning for Alzheimer's disease"
   description: "One of our lab's research areas focuses on the study of Alzheimer's disease (AD), an irreversible and progressive neurodegenerative disease that devastates cognitive abilities in old adults. We developed brain age estimation models via neuroimaging. These models are more accurate than previous ones. The difference between predicted brain age and chronological age (brain age gap) may serve as an indicator of both AD and different subtypes of memory loss. Recently, we developed a machine learning model via multi-omics data for multi-stage classification of AD, which is a non-invasive, efficient, and less-costly alternative for AD screening. Our research on this topic aims to uncover the mechanisms behind AD and develop new strategies for prevention and treatment. Overall, our work contributes to the understanding and management of AD, a major public health concern."
-  image: images/ad.jpg
+  image: images/research3.png
