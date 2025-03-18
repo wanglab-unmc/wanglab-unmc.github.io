@@ -1,11 +1,12 @@
 $thumb-size: 180px;
 $wrap: 800px;
 
+/* Container for News Section */
 .news-container {
   container-type: inline-size;
 }
 
-/* General News Styling */
+/* 🔹 General News Styling */
 .news {
   display: flex;
   flex-direction: column;
@@ -24,10 +25,6 @@ $wrap: 800px;
   color: var(--primary);
 }
 
-.news-title:hover {
-  text-decoration: underline;
-}
-
 .news-details {
   font-size: 14px;
   color: var(--gray);
@@ -40,6 +37,7 @@ $wrap: 800px;
   margin-top: 5px;
 }
 
+/* 🔹 Styles for Full News Page (`news/index.md`) */
 .news-image {
   position: relative;
   width: $thumb-size;
@@ -93,6 +91,7 @@ $wrap: 800px;
   margin: 0;
 }
 
+/* 🔹 Styles for the Latest News Section on Homepage */
 .latest-news {
   margin-top: 40px;
   padding: 20px;
@@ -122,15 +121,7 @@ $wrap: 800px;
   color: var(--primary-dark);
 }
 
-.news-title {
-  text-decoration: none;
-  color: var(--primary);
-}
-
-.news-title:hover {
-  text-decoration: underline;
-}
-
+/* 🔹 "Load More" Button */
 .news-load-more {
   text-align: center;
   margin-top: 20px;
@@ -149,3 +140,14 @@ $wrap: 800px;
   background-color: var(--primary-dark);
 }
 
+/* Responsive Design */
+@container (max-width: #{$wrap}) {
+  .news {
+    flex-direction: column;
+  }
+
+  .news-image {
+    width: unset;
+    height: $thumb-size;
+  }
+}
