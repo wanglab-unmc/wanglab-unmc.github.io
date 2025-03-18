@@ -531,3 +531,21 @@
   link: https://doi.org/g87p3m
   plugin: sources.py
   file: sources.yaml
+- id: 10.1200/JCO.2025.43.5_suppl.242
+  title: "<i>g</i>\n            -Rate\u2013based machine learning model to predict\
+    \ overall survival (OS) in patients with metastatic prostate cancer (mPC) while\
+    \ on treatment."
+  authors:
+  - Harshraj Leuva
+  - Jieqiong Wang
+  - Mohamed Azzam
+  - Mengxi Zhou
+  - Benjamin A. Teply
+  - Raymond C. Bergan
+  - Susan Elaine Bates
+  - Antonio Tito Fojo
+  publisher: Journal of Clinical Oncology
+  date: '2025-02-10'
+  link: https://doi.org/g88rnd
+  plugin: sources.py
+  file: sources.yaml
