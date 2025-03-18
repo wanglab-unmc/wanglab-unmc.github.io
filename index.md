@@ -22,19 +22,19 @@ Dr. Wang's laboratory focuses on the intersection of machine learning and medica
   <div class="carousel-inner">
     <div class="carousel-item active">
       <div class="carousel-caption d-block text-dark" style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); background: rgba(255, 255, 255, 0.7)&#58; padding: 10px; border-radius: 5px;">
-        <h5>Description for Image 1</h5>
+        <h5> </h5>
       </div>
       <img src="images/cocaine_fig1.png" class="d-block w-100" style="height: 400px; object-fit: contain;" alt="Image 1">
     </div>
     <div class="carousel-item">
       <div class="carousel-caption d-block text-dark" style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); background: rgba(255, 255, 255, 0.7)&#58; padding: 10px; border-radius: 5px;">
-        <h5>Description for Image 2</h5>
+        <h5> </h5>
       </div>
       <img src="images/elae042f1.jpg" class="d-block w-100" style="height: 400px; object-fit: contain;" alt="Image 2">
     </div>
     <div class="carousel-item">
       <div class="carousel-caption d-block text-dark" style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); background: rgba(255, 255, 255, 0.7)&#58; padding: 10px; border-radius: 5px;">
-        <h5>Description for Image 3</h5>
+        <h5> </h5>
       </div>
       <img src="images/cocaine_fig2.png" class="d-block w-100" style="height: 400px; object-fit: contain;" alt="Image 3">
     </div>
