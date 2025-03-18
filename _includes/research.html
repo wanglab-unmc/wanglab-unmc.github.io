@@ -10,18 +10,19 @@
 
 <div class="research-container">
   <div class="research">
-    <div class="research-text">
+    <!-- Title -->
+    <div class="research-title">
       <a
         {% if research.link %}
           href="{{ research.link | relative_url | xml_escape }}"
         {% endif %}
-        class="research-title"
       >
         {{ research.title | default: "[no title info]" }}
       </a>
     </div>
 
-    {% if include.style == "rich" %}
+    <!-- Image -->
+    {% if research.image %}
       <div class="research-image">
         <a
           {% if research.link %}
@@ -37,17 +38,18 @@
           >
         </a>
       </div>
+    {% endif %}
 
-      {% if research.description %}
-        <div class="research-description">
-          {{
-            research.description
-            | markdownify
-            | remove: "<p>"
-            | remove: "</p>"
-          }}
-        </div>
-      {% endif %}
+    <!-- Description -->
+    {% if research.description %}
+      <div class="research-description">
+        {{
+          research.description
+          | markdownify
+          | remove: "<p>"
+          | remove: "</p>"
+        }}
+      </div>
     {% endif %}
   </div>
 </div>
