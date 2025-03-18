@@ -152,17 +152,4 @@ header[data-big] {
     flex-shrink: 0;
   }
 
-  .title-text {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-
-  .title {
-    font-size: var(--xxl);
-  }
-
-  .subtitle {
-    font-size: var(--large);
-  }
 }
