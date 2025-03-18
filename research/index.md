@@ -15,3 +15,4 @@ In addition, we have developed multiple interpretable ML models and frameworks f
 
 {% include section.html %}
 
+{% include list.html data="research" component="research" style="rich" %}
