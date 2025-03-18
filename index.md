@@ -30,21 +30,14 @@ Dr. Wang's laboratory focuses on the intersection of machine learning and medica
 {% assign latest_news = site.data.news | sort: "date" | reverse | slice: 0, 5 %}
 
 <div class="latest-news">
-  {% for news in latest_news %}
-    <div class="news-item">
-      <a href="{{ news.link | relative_url | uri_escape }}" class="news-title">
-        {{ news.title }}
-      </a>
-      <div class="news-details">
-        <span class="news-date">{{ news.date | date: "%b %d, %Y" }}</span>
-      </div>
-      {% if news.description %}
-        <div class="news-description">
-          {{ news.description | markdownify | remove: "<p>" | remove: "</p>" }}
-        </div>
-      {% endif %}
-    </div>
-  {% endfor %}
+  <ul class="news-list">
+    {% for news in latest_news %}
+      <li>
+        <span class="news-date">{{ news.date | date: "%d %b, %Y" }}</span>: 
+        <a href="{{ news.link | relative_url | uri_escape }}" class="news-title">{{ news.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
 
   <div class="news-load-more">
     <a href="{{ '/news/' | relative_url }}" class="button">Load More</a>
