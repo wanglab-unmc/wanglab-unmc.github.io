@@ -11,7 +11,7 @@ Dr. Wang's laboratory focuses on the intersection of machine learning and medica
 
 ## Highlights
 <!-- Bootstrap 5 Image Slider -->
-<div id="imageCarousel" class="carousel slide" data-bs-ride="carousel" style="width: 1000px; height: 400px; margin: auto; position: relative;">
+<div id="imageCarousel" class="carousel slide" data-bs-ride="carousel" style="width: 1000px; height: 450px; margin: auto; position: relative;">
   <!-- Indicators -->
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#imageCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -23,48 +23,77 @@ Dr. Wang's laboratory focuses on the intersection of machine learning and medica
 
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <div class="carousel-caption d-block text-dark" style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); background: rgba(255, 255, 255, 0.7)&#58; padding: 10px; border-radius: 5px;">
-        <h5> </h5>
-      </div>
       <img src="images/cocaine.png" class="d-block w-100" style="height: 400px; object-fit: contain;" alt="Image 1">
+      <div class="description">
+        <h5>Functional Connectivity Alternation Analysis</h5>
+      </div>
     </div>
     <div class="carousel-item">
-      <div class="carousel-caption d-block text-dark" style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); background: rgba(255, 255, 255, 0.7)&#58; padding: 10px; border-radius: 5px;">
-        <h5> </h5>
-      </div>
       <img src="images/elae042f1.jpg" class="d-block w-100" style="height: 400px; object-fit: contain;" alt="Image 2">
+      <div class="description">
+        <h5>Brain Age Prediction Pipeline</h5>
+      </div>
     </div>
     <div class="carousel-item">
-      <div class="carousel-caption d-block text-dark" style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); background: rgba(255, 255, 255, 0.7)&#58; padding: 10px; border-radius: 5px;">
-        <h5> </h5>
-      </div>
       <img src="images/prostate_cancer.png" class="d-block w-100" style="height: 400px; object-fit: contain;" alt="Image 3">
-    </div>
-    <div class="carousel-item active">
-      <div class="carousel-caption d-block text-dark" style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); background: rgba(255, 255, 255, 0.7)&#58; padding: 10px; border-radius: 5px;">
-        <h5> </h5>
+      <div class="description">
+        <h5>Predict overall survival in patients with metastatic prostate cancer</h5>
       </div>
+    </div>
+    <div class="carousel-item">
       <img src="images/ad.jpg" class="d-block w-100" style="height: 400px; object-fit: contain;" alt="Image 4">
-    </div>
-    <div class="carousel-item active">
-      <div class="carousel-caption d-block text-dark" style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); background: rgba(255, 255, 255, 0.7)&#58; padding: 10px; border-radius: 5px;">
-        <h5> </h5>
+      <div class="description">
+        <h5>Pipeline of Alzheimer’s Disease Diagnosis</h5>
       </div>
+    </div>
+    <div class="carousel-item">
       <img src="images/lgn.jpg" class="d-block w-100" style="height: 400px; object-fit: contain;" alt="Image 5">
+      <div class="description">
+        <h5>Pipeline flow chart of automatic LGN segmentation</h5>
+      </div>
     </div>
   </div>
 
   <!-- Controls -->
-  <button class="carousel-control-prev" type="button" data-bs-target="#imageCarousel" data-bs-slide="prev">
+  <button class="carousel-control-prev custom-btn" type="button" data-bs-target="#imageCarousel" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#imageCarousel" data-bs-slide="next">
+  
+  <button class="carousel-control-next custom-btn" type="button" data-bs-target="#imageCarousel" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
 </div>
 
+<style>
+  /* Description Styling */
+  .description {
+    text-align: center;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.1); /* Light background to differentiate */
+    color: black;
+    font-size: 18px;
+  }
+
+  /* Custom Navigation Buttons */
+  .custom-btn {
+    width: 60px; /* Make the buttons larger */
+    height: 60px;
+    background-color: rgba(0, 0, 0, 0.5); /* Darker background for visibility */
+    border-radius: 50%; /* Circular buttons */
+  }
+
+  .custom-btn:hover {
+    background-color: rgba(0, 0, 0, 0.8); /* Darker hover effect */
+  }
+
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    width: 50px; /* Larger icons */
+    height: 50px;
+  }
+</style>
 
 {% include section.html %}
 ## Latest News
