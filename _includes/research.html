@@ -1,0 +1,53 @@
+{% if include.lookup %}
+  {% assign research = site.data.research
+    | where_exp: "research",
+      "research.id == include.lookup or research.title contains include.lookup"
+    | first
+  %}
+{% else %}
+  {% assign research = include %}
+{% endif %}
+
+<div class="research-container">
+  <div class="research">
+    <div class="research-text">
+      <a
+        {% if research.link %}
+          href="{{ research.link | relative_url | xml_escape }}"
+        {% endif %}
+        class="research-title"
+      >
+        {{ research.title | default: "[no title info]" }}
+      </a>
+    </div>
+
+    {% if include.style == "rich" %}
+      <div class="research-image">
+        <a
+          {% if research.link %}
+            href="{{ research.link | relative_url | uri_escape }}"
+          {% endif %}
+          aria-label="{{ research.title | default: "research link" | regex_strip }}"
+        >
+          <img
+            src="{{ research.image | relative_url | uri_escape }}"
+            alt="{{ research.title | default: "research image" | regex_strip }}"
+            loading="lazy"
+            {% include fallback.html %}
+          >
+        </a>
+      </div>
+
+      {% if research.description %}
+        <div class="research-description">
+          {{
+            research.description
+            | markdownify
+            | remove: "<p>"
+            | remove: "</p>"
+          }}
+        </div>
+      {% endif %}
+    {% endif %}
+  </div>
+</div>
