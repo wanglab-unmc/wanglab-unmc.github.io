@@ -24,7 +24,7 @@ Dr. Wang's laboratory focuses on the intersection of machine learning and medica
       <div class="carousel-caption d-block text-dark" style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); background: rgba(255, 255, 255, 0.7)&#58; padding: 10px; border-radius: 5px;">
         <h5> </h5>
       </div>
-      <img src="images/cocaine_fig1.png" class="d-block w-100" style="height: 400px; object-fit: contain;" alt="Image 1">
+      <img src="images/cocaine.png" class="d-block w-100" style="height: 400px; object-fit: contain;" alt="Image 1">
     </div>
     <div class="carousel-item">
       <div class="carousel-caption d-block text-dark" style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); background: rgba(255, 255, 255, 0.7)&#58; padding: 10px; border-radius: 5px;">
@@ -36,7 +36,7 @@ Dr. Wang's laboratory focuses on the intersection of machine learning and medica
       <div class="carousel-caption d-block text-dark" style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); background: rgba(255, 255, 255, 0.7)&#58; padding: 10px; border-radius: 5px;">
         <h5> </h5>
       </div>
-      <img src="images/cocaine_fig2.png" class="d-block w-100" style="height: 400px; object-fit: contain;" alt="Image 3">
+      <img src="images/prostate_cancer.png" class="d-block w-100" style="height: 400px; object-fit: contain;" alt="Image 3">
     </div>
   </div>
 
