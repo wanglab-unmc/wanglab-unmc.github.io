@@ -1,11 +1,11 @@
 - title: "Artificial intelligence and machine learning for medical imaging"
   description: "In the rapidly evolving field of medical imaging, our lab has focused on developing advanced machine-learning models and frameworks with medical imaging. Through our work, we have demonstrated the potential of these models to aid in understanding disease mechanisms, as well as in detecting and treating a range of neurodegenerative diseases and psychiatric disorders. These models are particularly valuable in identifying brain biomarkers associated with these conditions, which can lead to earlier diagnosis and more targeted treatments. Additionally, we have developed several segmentation algorithms for medical images. By harnessing the power of artificial intelligence and machine learning, our research has the potential to make a significant impact on the diagnosis and treatment of a range of diseases and disorders, ultimately improving patient outcomes and quality of life."
-  image: images/photo.jpg
+  image: images/cocaine.png
 
 - title: "Artificial intelligence and machine learning for cancer research"
   description: "With the rapid growth of big data in medicine, AI/ML has become essential in cancer research. Our lab has developed a series of AI/ML approaches to address critical challenges in cancer research areas, including reducing health disparities, cross-modality synthesis, predicting survival probability, and identifying cancer subtypes. Our key contribution lies in developing specialized machine learning (including deep learning) models that seamlessly integrate multi-modal data, achieving superior predictive performance compared to existing methods."
-  image: images/photo.jpg
+  image: images/prostate_cancer.png
 
 - title: "Artificial intelligence and machine learning for Alzheimer's disease"
   description: "One of our lab's research areas focuses on the study of Alzheimer's disease (AD), an irreversible and progressive neurodegenerative disease that devastates cognitive abilities in old adults. We developed brain age estimation models via neuroimaging. These models are more accurate than previous ones. The difference between predicted brain age and chronological age (brain age gap) may serve as an indicator of both AD and different subtypes of memory loss. Recently, we developed a machine learning model via multi-omics data for multi-stage classification of AD, which is a non-invasive, efficient, and less-costly alternative for AD screening. Our research on this topic aims to uncover the mechanisms behind AD and develop new strategies for prevention and treatment. Overall, our work contributes to the understanding and management of AD, a major public health concern."
-  image: images/photo.jpg
+  image: images/ad.jpg
