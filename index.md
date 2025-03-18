@@ -33,8 +33,7 @@ Dr. Wang's laboratory focuses on the intersection of machine learning and medica
   <ul class="news-list">
     {% for news in latest_news %}
       <li>
-        <span class="news-date">{{ news.date | date: "%d %b, %Y" }}</span>: 
-        <a href="{{ news.link | relative_url | uri_escape }}" class="news-title">{{ news.title }}</a>
+        <span class="news-date">{{ news.date | date: "%d %b, %Y" }}</span>: {{ news.title }}
       </li>
     {% endfor %}
   </ul>
