@@ -40,25 +40,6 @@
         {{ news.title | default: "[no title info]" }}
       </a>
 
-      <div
-        class="news-authors"
-        {% if news.authors.size > 10 %}
-          data-tooltip="{{ news.authors | join: ", " | xml_escape }}"
-        {% endif %}
-        tabindex="0"
-      >
-        {{
-          news.authors
-          | join: ","
-          | split: ","
-          | array_carve: 5
-          | join: ", "
-          | markdownify
-          | remove: "<p>" | remove: "</p>"
-          | default: "[no author info]"
-        }}
-      </div>
-
       <div class="news-details">
         <span class="news-date">
           {{- news.date | default: "[no date info]" | date: "%b-%d-%Y" -}}
