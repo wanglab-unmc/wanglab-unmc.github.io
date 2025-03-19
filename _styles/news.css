@@ -13,8 +13,8 @@
 
 .news-image {
   position: relative;
-  width: 360px;
-  height: 360px;
+  width: 400px;
+  height: 300px;
   flex-shrink: 0;
 }
 
@@ -92,7 +92,7 @@
   }
   .news-image {
     width: unset;
-    height: 360px;
+    height: 300px;
   }
 }
 
