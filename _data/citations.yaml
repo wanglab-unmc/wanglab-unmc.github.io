@@ -40,6 +40,7 @@
   publisher: PLoS ONE
   date: '2013-09-30'
   link: https://doi.org/g83v9t
+  image: https://plos.org/wp-content/uploads/2024/11/logo-plos-full-color.svg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1111/adb.12644
@@ -180,6 +181,7 @@
   publisher: Neuropsychologia
   date: '2020-09-01'
   link: https://doi.org/gjtt7t
+  image: https://ars.els-cdn.com/content/image/X00283932.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1007/s11682-016-9597-3
