@@ -1,6 +1,7 @@
 - id: doi:10.1093/bfgp/elae042
   type: paper
   description: This review paper presents recent machine learning techniques used in brain age estimation (BAE) studies.
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bfg/Issue/24/5/m_cover.jpeg?Expires=1745373339&Signature=tgiCogbwVIO5rq-4QqWWIFWMU0H7f~sSz7CrBMtfMSwV1TeajBF2OQahlHCUNMdls5SVXBg1hPM3chUNtEHQcDcjSSDfXm3UBJJgfkgUoT5r-pTNwogVIQ6lL316YpC99sCKmJ-WhgTp50kGi18wYzMe2HZhb9o~xkxPesMwGhpLNY3VmP2TbysyhinvICt8mI5qyntmee8wdWPSOabhqRJtZtKLOFre8AU7VzRSNMiLyBprZuMWyUSdtasTdFr8bsFTGCk0doEwCz~Xshe9eBk8asEkkT2aLabUtMk8y2hhcC6Vn3wJBQIyeXkTiu3bh6A18YJRvl9B42K8P4hiHQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
 - id: 10.1371/journal.pone.0076105
 
@@ -69,6 +70,7 @@
   image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
 
 - id: 10.1002/hbm.70013
+  image: https://onlinelibrary.wiley.com/cms/asset/8309db05-5460-4ca3-a779-d97319129b33/hbm.v45.13.cover.jpg
 
 - id: 10.1158/1538-7445.AM2024-4800
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/84/6_supplement/1/m_canres_84_6_cover.png?Expires=1745374425&Signature=btHABNE70oAhzM98ad70aidAIRoUlJQYLAFtTp2dbUICTl-qqJQEuysdCTMg7-90Ctxj9UK3RuXcPyJIAVtnjNOK6DeG6OvzdII4DUjpYdkw9QZ1wDOyLDXxWcG3MkOdhjq6RI8fTrHMboy4pwsdHR05SRU3URu9G2njBcGYDe0vYO5PYsxD61e7WkcXinGyYbMeHnHROF9uDoe9xwPH4Slm7nPSvPPJGDtNcvkzKejoR-3fzjnHhsCQNvWadEV-We44E58DzOEgLzpBkF8MjK-fbM-7aAFpLEKRBOnaYGMVUfR26hRoM3Boig8Wue~dsPDC8yWdN2Ht4YliA7csgQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
