@@ -55,6 +55,7 @@
   publisher: Addiction Biology
   date: '2018-06-27'
   link: https://doi.org/gmnq2b
+  image: https://onlinelibrary.wiley.com/cms/asset/86536fbd-4d9b-41ba-a451-1362f4ff3a40/adb.v24.5.cover.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1002/hbm.23146
@@ -73,6 +74,7 @@
   publisher: Human Brain Mapping
   date: '2016-03-01'
   link: https://doi.org/g83v9v
+  image: https://onlinelibrary.wiley.com/cms/asset/1939df3b-05c6-4108-9fc8-93e4c59a876c/hbm.v37.5.cover.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1101/2024.11.12.623073
