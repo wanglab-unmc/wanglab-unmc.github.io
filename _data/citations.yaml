@@ -388,6 +388,7 @@
   publisher: Frontiers in Genetics
   date: '2023-07-24'
   link: https://doi.org/g83wkd
+  image: https://curehht.org/wp-content/uploads/2017/11/Frontiers-in-Genetics-logo.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.1101/2024.04.25.590553
@@ -456,6 +457,7 @@
   publisher: Frontiers in Oncology
   date: '2023-02-08'
   link: https://doi.org/g83wkj
+  image: https://www.frontiersin.org/files/Taxonomy/2935.JPEG
   plugin: sources.py
   file: sources.yaml
 - id: 10.3389/fgene.2022.876686
@@ -466,6 +468,7 @@
   publisher: Frontiers in Genetics
   date: '2022-04-13'
   link: https://doi.org/g83wkk
+  image: https://curehht.org/wp-content/uploads/2017/11/Frontiers-in-Genetics-logo.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.1101/2024.09.25.614862
