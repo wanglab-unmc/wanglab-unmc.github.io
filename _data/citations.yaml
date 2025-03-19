@@ -18,7 +18,6 @@
   type: paper
   description: This review paper presents recent machine learning techniques used
     in brain age estimation (BAE) studies.
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bfg/Issue/24/5/m_cover.jpeg?Expires=1745373344&Signature=0IllyT-odbARsdRKlLkDRxhE5npdjMec88YEoRQuho0Gp8Qafmgz9gZiUSHWMQdcnyyuw3eiW2k6lI3H6LKUx1sti8PsPetd7zQgCzZXBHNt-ZbH9QzOVIJsoEed4rj89X7UOjQlD3dm4Io2Qlbc58NsZzBhMx0FLc09q3wUEVdqBepfntcYpC2Az~S9gwqLyFLwuRAgkurC9IORl63fLTmL07IDG15zGKt~Od~2lamvSEBp4QlYwanlyZd5ghBGn6kpc6zyQZkPtJ-Ax9T2oxyKIrnZx-kwSlV7QpUOTtytMpoom0Wv-yw17OyoSzL4U3B5luwmgZeDjpO6GOK~Ig__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
 - id: 10.1371/journal.pone.0076105
@@ -401,6 +400,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2024-04-26'
   link: https://doi.org/g83wkf
+  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.1007/978-3-319-68843-5_10
@@ -472,6 +472,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2024-09-27'
   link: https://doi.org/g83wkm
+  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.1101/2024.09.24.614777
@@ -488,6 +489,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2024-09-26'
   link: https://doi.org/g83wkn
+  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.1002/hbm.70013
@@ -519,6 +521,7 @@
   publisher: Cancer Research
   date: '2024-03-22'
   link: https://doi.org/g83wkq
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/84/6_supplement/1/m_canres_84_6_cover.png?Expires=1745374425&Signature=btHABNE70oAhzM98ad70aidAIRoUlJQYLAFtTp2dbUICTl-qqJQEuysdCTMg7-90Ctxj9UK3RuXcPyJIAVtnjNOK6DeG6OvzdII4DUjpYdkw9QZ1wDOyLDXxWcG3MkOdhjq6RI8fTrHMboy4pwsdHR05SRU3URu9G2njBcGYDe0vYO5PYsxD61e7WkcXinGyYbMeHnHROF9uDoe9xwPH4Slm7nPSvPPJGDtNcvkzKejoR-3fzjnHhsCQNvWadEV-We44E58DzOEgLzpBkF8MjK-fbM-7aAFpLEKRBOnaYGMVUfR26hRoM3Boig8Wue~dsPDC8yWdN2Ht4YliA7csgQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
 - id: 10.1101/2025.02.24.640010
@@ -531,6 +534,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2025-02-28'
   link: https://doi.org/g87p3m
+  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.1200/JCO.2025.43.5_suppl.242
@@ -549,5 +553,6 @@
   publisher: Journal of Clinical Oncology
   date: '2025-02-10'
   link: https://doi.org/g88rnd
+  image: https://ascopubs.org/action/showCoverImage?journalCode=jco&imgSize=small
   plugin: sources.py
   file: sources.yaml
