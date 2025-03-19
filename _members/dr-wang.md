@@ -4,7 +4,7 @@ image: images/dr_wang.jpg
 role: pi
 description: Assistant Professor
 links:
-  google-scholar: https://scholar.google.com/citations?user=5NSL258AAAAJ
+  google-scholar: 5NSL258AAAAJ
   orcid: 0009-0009-2040-9552
   website: https://www.unmc.edu/neurologicalsciences/about/faculty/wang.html
 ---
