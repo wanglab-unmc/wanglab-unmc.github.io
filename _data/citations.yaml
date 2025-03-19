@@ -87,6 +87,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2024-11-14'
   link: https://doi.org/g8z7sm
+  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.1038/s41598-020-65086-x
