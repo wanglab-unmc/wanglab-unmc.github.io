@@ -7,7 +7,7 @@ nav:
 
 # Wang Lab
 
-Dr. Wang's laboratory focuses on the intersection of machine learning and medical imaging. The lab develops and applies methods in machine learning, artificial intelligence, and data science to process and analyze medical images to understand the mechanisms of diseases and build diagnostic/predictive models.
+Dr. Wang's laboratory focuses on the intersection of **machine learning** and **medical imaging**. The lab develops and applies methods in machine learning, artificial intelligence, and data science to process and analyze medical images to understand the mechanisms of diseases and build diagnostic/predictive models.
 
 ## Highlights
 <!-- Bootstrap 5 Image Slider -->
@@ -25,7 +25,7 @@ Dr. Wang's laboratory focuses on the intersection of machine learning and medica
     <div class="carousel-item active">
       <img src="images/cocaine.png" class="d-block w-100" style="height: 400px; object-fit: contain;" alt="Image 1">
       <div class="description">
-        <h5>Functional Connectivity Alternation Analysis</h5>
+        <h5>Biomarkers identified by interpretable ML model</h5>
       </div>
     </div>
     <div class="carousel-item">
