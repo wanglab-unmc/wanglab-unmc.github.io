@@ -332,6 +332,7 @@
   publisher: SPIE Proceedings
   date: '2016-03-24'
   link: https://doi.org/g83wj9
+  image: https://spie.org/Images/Graphics/ConferenceLogo/mi.svg
   plugin: sources.py
   file: sources.yaml
 - id: 10.3390/biom14040409
@@ -360,6 +361,7 @@
   publisher: SPIE Proceedings
   date: '2016-03-24'
   link: https://doi.org/g83wkb
+  image: https://spie.org/Images/Graphics/ConferenceLogo/mi.svg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1117/12.2043424
@@ -375,6 +377,7 @@
   publisher: SPIE Proceedings
   date: '2014-03-13'
   link: https://doi.org/g83wkc
+  image: https://spie.org/Images/Graphics/ConferenceLogo/mi.svg
   plugin: sources.py
   file: sources.yaml
 - id: 10.3389/fgene.2023.1256468
