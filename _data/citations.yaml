@@ -312,6 +312,7 @@
   publisher: Advances in Cancer Research
   date: '2024-01-01'
   link: https://doi.org/g83wj8
+  image: https://ars.els-cdn.com/content/image/X0065230X.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1117/12.2217308
@@ -442,6 +443,7 @@
   publisher: Cancer Research
   date: '2024-03-22'
   link: https://doi.org/g83wkh
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/84/6_supplement/1/m_canres_84_6_cover.png?Expires=1745374425&Signature=btHABNE70oAhzM98ad70aidAIRoUlJQYLAFtTp2dbUICTl-qqJQEuysdCTMg7-90Ctxj9UK3RuXcPyJIAVtnjNOK6DeG6OvzdII4DUjpYdkw9QZ1wDOyLDXxWcG3MkOdhjq6RI8fTrHMboy4pwsdHR05SRU3URu9G2njBcGYDe0vYO5PYsxD61e7WkcXinGyYbMeHnHROF9uDoe9xwPH4Slm7nPSvPPJGDtNcvkzKejoR-3fzjnHhsCQNvWadEV-We44E58DzOEgLzpBkF8MjK-fbM-7aAFpLEKRBOnaYGMVUfR26hRoM3Boig8Wue~dsPDC8yWdN2Ht4YliA7csgQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
 - id: 10.3389/fonc.2023.1125186
