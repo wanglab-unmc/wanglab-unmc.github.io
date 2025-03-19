@@ -1,7 +1,8 @@
 ---
 ---
 
-$thumb-size: 360px;
+$thumb-width: 400px;
+$thumb-height: 300px;
 $wrap: 800px;
 
 .news-container {
@@ -19,8 +20,8 @@ $wrap: 800px;
 
 .news-image {
   position: relative;
-  width: $thumb-size;
-  height: $thumb-size;
+  width: $thumb-width;
+  height: $thumb-height;
   flex-shrink: 0;
   // box-shadow: var(--shadow);
 }
@@ -100,6 +101,6 @@ $wrap: 800px;
 
   .news-image {
     width: unset;
-    height: $thumb-size;
+    height: $thumb-height;
   }
 }
