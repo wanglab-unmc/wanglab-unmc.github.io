@@ -69,7 +69,6 @@
   image: image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
 
 - id: 10.1002/hbm.70013
-  image: https://onlinelibrary.wiley.com/cms/asset/8309db05-5460-4ca3-a779-d97319129b33/hbm.v45.13.cover.jpg
 
 - id: 10.1158/1538-7445.AM2024-4800
 
@@ -77,4 +76,3 @@
   image: image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
 
 - id: 10.1200/JCO.2025.43.5_suppl.242
-  image: https://ascopubs.org/action/showCoverImage?journalCode=jco&imgSize=small
