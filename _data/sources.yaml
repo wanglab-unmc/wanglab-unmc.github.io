@@ -4,6 +4,7 @@
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bfg/Issue/24/5/m_cover.jpeg?Expires=1745373339&Signature=tgiCogbwVIO5rq-4QqWWIFWMU0H7f~sSz7CrBMtfMSwV1TeajBF2OQahlHCUNMdls5SVXBg1hPM3chUNtEHQcDcjSSDfXm3UBJJgfkgUoT5r-pTNwogVIQ6lL316YpC99sCKmJ-WhgTp50kGi18wYzMe2HZhb9o~xkxPesMwGhpLNY3VmP2TbysyhinvICt8mI5qyntmee8wdWPSOabhqRJtZtKLOFre8AU7VzRSNMiLyBprZuMWyUSdtasTdFr8bsFTGCk0doEwCz~Xshe9eBk8asEkkT2aLabUtMk8y2hhcC6Vn3wJBQIyeXkTiu3bh6A18YJRvl9B42K8P4hiHQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
 - id: 10.1371/journal.pone.0076105
+  image: https://plos.org/wp-content/uploads/2024/11/logo-plos-full-color.svg
 
 - id: 10.1111/adb.12644
   image: https://onlinelibrary.wiley.com/cms/asset/86536fbd-4d9b-41ba-a451-1362f4ff3a40/adb.v24.5.cover.jpg
@@ -23,6 +24,7 @@
 - id: doi:10.3389/fnsys.2012.00063
 
 - id: 10.1016/j.neuropsychologia.2020.107549
+  image: https://ars.els-cdn.com/content/image/X00283932.jpg
 
 - id: 10.1007/s11682-016-9597-3
 
