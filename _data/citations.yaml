@@ -339,6 +339,7 @@
   publisher: Biomolecules
   date: '2024-03-27'
   link: https://doi.org/g8z7sr
+  image: https://pub.mdpi-res.com/img/journals/biomolecules-logo.png?8600e93ff98dbf14
   plugin: sources.py
   file: sources.yaml
 - id: 10.1117/12.2216647
