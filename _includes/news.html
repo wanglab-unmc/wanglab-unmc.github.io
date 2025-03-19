@@ -30,7 +30,13 @@
     <div class="news-text">
       {% assign type = site.data.types[news.type] %}
       {% include icon.html icon=type.icon %}
-
+      
+      <div class="news-details">
+        <span class="news-date">
+          {{- news.date | default: "[no date info]" | date: "%b-%d-%Y" -}}
+        </span>
+      </div>
+      
       <a
         {% if news.link %}
           href="{{ news.link | relative_url | xml_escape }}"
@@ -39,12 +45,6 @@
       >
         {{ news.title | default: "[no title info]" }}
       </a>
-
-      <div class="news-details">
-        <span class="news-date">
-          {{- news.date | default: "[no date info]" | date: "%b-%d-%Y" -}}
-        </span>
-      </div>
 
       {% if include.style == "rich" %}
         {% if news.description %}
