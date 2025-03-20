@@ -16,10 +16,13 @@
   image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
 
 - id: 10.1038/s41598-020-65086-x
+  image: https://media.springernature.com/full/nature-cms/uploads/product/srep/header-d3c533c187c710c1bedbd8e293815d5f.svg
 
 - id: 10.1007/s11517-013-1131-9
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/11517?as=webp
 
 - id: 10.1038/srep18969
+  image: https://media.springernature.com/full/nature-cms/uploads/product/srep/header-d3c533c187c710c1bedbd8e293815d5f.svg
 
 - id: doi:10.3389/fnsys.2012.00063
 
