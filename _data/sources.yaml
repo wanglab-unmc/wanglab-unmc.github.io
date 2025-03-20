@@ -24,7 +24,8 @@
 - id: doi:10.1038/srep18969
   image: https://media.springernature.com/full/nature-cms/uploads/product/srep/header-d3c533c187c710c1bedbd8e293815d5f.svg
 
-- id: doi:doi:10.3389/fnsys.2012.00063
+- id: doi:10.3389/fnsys.2012.00063
+  image: https://upload.wikimedia.org/wikipedia/de/thumb/3/39/Frontiers_Media_logo.svg/1600px-Frontiers_Media_logo.svg.png?20240304013843
 
 - id: doi:10.1016/j.neuropsychologia.2020.107549
   image: https://ars.els-cdn.com/content/image/X00283932.jpg
@@ -39,12 +40,16 @@
   image: https://onlinelibrary.wiley.com/cms/asset/be23627c-d051-4327-ae27-69b9c7a90ede/default_cover.jpg
 
 - id: doi:10.1038/s41598-017-04148-z
+  image: https://media.springernature.com/full/nature-cms/uploads/product/srep/header-d3c533c187c710c1bedbd8e293815d5f.svg
 
 - id: doi:10.3389/fnhum.2017.00473
+  image: https://upload.wikimedia.org/wikipedia/de/thumb/3/39/Frontiers_Media_logo.svg/1600px-Frontiers_Media_logo.svg.png?20240304013843
 
 - id: doi:10.1016/j.jneumeth.2015.08.006
+  image: https://ars.els-cdn.com/content/image/X01650270.jpg
 
 - id: doi:10.1007/978-3-642-35428-1_14
+  image: https://media.springernature.com/w316/springer-static/cover-hires/book/978-3-642-35428-1?as=webp
 
 - id: doi:10.1109/EMBC.2016.7591617
 
