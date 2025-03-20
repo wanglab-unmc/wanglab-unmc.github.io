@@ -21,7 +21,7 @@
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bfg/Issue/24/5/m_cover.jpeg?Expires=1745373339&Signature=tgiCogbwVIO5rq-4QqWWIFWMU0H7f~sSz7CrBMtfMSwV1TeajBF2OQahlHCUNMdls5SVXBg1hPM3chUNtEHQcDcjSSDfXm3UBJJgfkgUoT5r-pTNwogVIQ6lL316YpC99sCKmJ-WhgTp50kGi18wYzMe2HZhb9o~xkxPesMwGhpLNY3VmP2TbysyhinvICt8mI5qyntmee8wdWPSOabhqRJtZtKLOFre8AU7VzRSNMiLyBprZuMWyUSdtasTdFr8bsFTGCk0doEwCz~Xshe9eBk8asEkkT2aLabUtMk8y2hhcC6Vn3wJBQIyeXkTiu3bh6A18YJRvl9B42K8P4hiHQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
-- id: 10.1371/journal.pone.0076105
+- id: doi:10.1371/journal.pone.0076105
   title: 'Structural Abnormalities in Early Tourette Syndrome Children: A Combined
     Voxel-Based Morphometry and Tract-Based Spatial Statistics Study'
   authors:
@@ -43,7 +43,7 @@
   image: https://plos.org/wp-content/uploads/2024/11/logo-plos-full-color.svg
   plugin: sources.py
   file: sources.yaml
-- id: 10.1111/adb.12644
+- id: doi:10.1111/adb.12644
   title: "Classifying and characterizing nicotine use disorder with high accuracy\
     \ using machine learning and resting\u2010state <scp>fMRI</scp>"
   authors:
@@ -59,7 +59,7 @@
   image: https://onlinelibrary.wiley.com/cms/asset/86536fbd-4d9b-41ba-a451-1362f4ff3a40/adb.v24.5.cover.jpg
   plugin: sources.py
   file: sources.yaml
-- id: 10.1002/hbm.23146
+- id: doi:10.1002/hbm.23146
   title: "Combining tract\u2010 and atlas\u2010based analysis reveals microstructural\
     \ abnormalities in early Tourette syndrome children"
   authors:
@@ -78,7 +78,7 @@
   image: https://onlinelibrary.wiley.com/cms/asset/1939df3b-05c6-4108-9fc8-93e4c59a876c/hbm.v37.5.cover.jpg
   plugin: sources.py
   file: sources.yaml
-- id: 10.1101/2024.11.12.623073
+- id: doi:10.1101/2024.11.12.623073
   title: 'Functional Connectivity Alterations in Cocaine Use Disorder: Insights from
     the Triple Network Model and the Addictions Neuroclinical Assessment Framework'
   authors:
@@ -94,7 +94,7 @@
   image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
   plugin: sources.py
   file: sources.yaml
-- id: 10.1038/s41598-020-65086-x
+- id: doi:10.1038/s41598-020-65086-x
   title: Two nights of recovery sleep restores hippocampal connectivity but not episodic
     memory after total sleep deprivation
   authors:
@@ -119,7 +119,7 @@
   image: https://media.springernature.com/full/nature-cms/uploads/product/srep/header-d3c533c187c710c1bedbd8e293815d5f.svg
   plugin: sources.py
   file: sources.yaml
-- id: 10.1007/s11517-013-1131-9
+- id: doi:10.1007/s11517-013-1131-9
   title: Age estimation using cortical surface pattern combining thickness with curvatures
   authors:
   - Jieqiong Wang
@@ -134,7 +134,7 @@
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/11517?as=webp
   plugin: sources.py
   file: sources.yaml
-- id: 10.1038/srep18969
+- id: doi:10.1038/srep18969
   title: 'Structural brain alterations in primary open angle glaucoma: a 3T MRI study'
   authors:
   - Jieqiong Wang
@@ -155,7 +155,7 @@
   image: https://media.springernature.com/full/nature-cms/uploads/product/srep/header-d3c533c187c710c1bedbd8e293815d5f.svg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.3389/fnsys.2012.00063
+- id: doi:doi:10.3389/fnsys.2012.00063
   title: Classification of ADHD children through multimodal magnetic resonance imaging
   authors:
   - Dai Dai
@@ -167,7 +167,7 @@
   link: https://doi.org/ggrr3z
   plugin: sources.py
   file: sources.yaml
-- id: 10.1016/j.neuropsychologia.2020.107549
+- id: doi:10.1016/j.neuropsychologia.2020.107549
   title: Neural and behavioral correlates of episodic memory are associated with temporal
     discounting in older adults
   authors:
@@ -187,7 +187,7 @@
   image: https://ars.els-cdn.com/content/image/X00283932.jpg
   plugin: sources.py
   file: sources.yaml
-- id: 10.1007/s11682-016-9597-3
+- id: doi:10.1007/s11682-016-9597-3
   title: 'Altered functional connectivity within and between the default model network
     and the visual network in primary open-angle glaucoma: a resting-state fMRI study'
   authors:
@@ -200,9 +200,10 @@
   publisher: Brain Imaging and Behavior
   date: '2016-10-04'
   link: https://doi.org/gj26pq
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/11682?as=webp
   plugin: sources.py
   file: sources.yaml
-- id: 10.1007/s00330-016-4221-x
+- id: doi:10.1007/s00330-016-4221-x
   title: Graph theoretical analysis reveals the reorganization of the brain network
     pattern in primary open angle glaucoma patients
   authors:
@@ -214,9 +215,10 @@
   publisher: European Radiology
   date: '2016-02-11'
   link: https://doi.org/gj26pj
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/330?as=webp
   plugin: sources.py
   file: sources.yaml
-- id: 10.1155/2016/9849087
+- id: doi:10.1155/2016/9849087
   title: Functional Reorganizations of Brain Network in Prelingually Deaf Adolescents
   authors:
   - Wenjing Li
@@ -229,9 +231,10 @@
   publisher: Neural Plasticity
   date: '2016-01-01'
   link: https://doi.org/gcfh2r
+  image: https://onlinelibrary.wiley.com/cms/asset/be23627c-d051-4327-ae27-69b9c7a90ede/default_cover.jpg
   plugin: sources.py
   file: sources.yaml
-- id: 10.1038/s41598-017-04148-z
+- id: doi:10.1038/s41598-017-04148-z
   title: 'Altered Spontaneous Brain Activity in Children with Early Tourette Syndrome:
     a Resting-state fMRI Study'
   authors:
@@ -250,7 +253,7 @@
   link: https://doi.org/gbnz4v
   plugin: sources.py
   file: sources.yaml
-- id: 10.3389/fnhum.2017.00473
+- id: doi:10.3389/fnhum.2017.00473
   title: Is Congenital Amusia a Disconnection Syndrome? A Study Combining Tract- and
     Network-Based Analysis
   authors:
@@ -263,7 +266,7 @@
   link: https://doi.org/g83v97
   plugin: sources.py
   file: sources.yaml
-- id: 10.1016/j.jneumeth.2015.08.006
+- id: doi:10.1016/j.jneumeth.2015.08.006
   title: 'Automatic segmentation of the lateral geniculate nucleus: Application to
     control and glaucoma patients'
   authors:
@@ -280,7 +283,7 @@
   link: https://doi.org/f7wvfx
   plugin: sources.py
   file: sources.yaml
-- id: 10.1007/978-3-642-35428-1_14
+- id: doi:10.1007/978-3-642-35428-1_14
   title: Human Age Estimation with Surface-Based Features from MRI Images
   authors:
   - Jieqiong Wang
@@ -293,7 +296,7 @@
   link: https://doi.org/g83wj6
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/EMBC.2016.7591617
+- id: doi:10.1109/EMBC.2016.7591617
   title: Abnormal interhemispheric resting-state functional connectivity in primary
     open-angle glaucoma
   authors:
@@ -309,7 +312,7 @@
   link: https://doi.org/g83wj7
   plugin: sources.py
   file: sources.yaml
-- id: 10.1016/bs.acr.2024.06.005
+- id: doi:10.1016/bs.acr.2024.06.005
   title: Multi-omics based artificial intelligence for cancer research
   authors:
   - Lusheng Li
@@ -322,7 +325,7 @@
   image: https://ars.els-cdn.com/content/image/X0065230X.jpg
   plugin: sources.py
   file: sources.yaml
-- id: 10.1117/12.2217308
+- id: doi:10.1117/12.2217308
   title: A diagnosis model for early Tourette syndrome children based on brain structural
     network characteristics
   authors:
@@ -338,7 +341,7 @@
   image: https://spie.org/Images/Graphics/ConferenceLogo/mi.svg
   plugin: sources.py
   file: sources.yaml
-- id: 10.3390/biom14040409
+- id: doi:10.3390/biom14040409
   title: A Review for Artificial Intelligence Based Protein Subcellular Localization
   authors:
   - Hanyu Xiao
@@ -351,7 +354,7 @@
   image: https://pub.mdpi-res.com/img/journals/biomolecules-logo.png?8600e93ff98dbf14
   plugin: sources.py
   file: sources.yaml
-- id: 10.1117/12.2216647
+- id: doi:10.1117/12.2216647
   title: Using support vector machines with tract-based spatial statistics for automated
     classification of Tourette syndrome children
   authors:
@@ -367,7 +370,7 @@
   image: https://spie.org/Images/Graphics/ConferenceLogo/mi.svg
   plugin: sources.py
   file: sources.yaml
-- id: 10.1117/12.2043424
+- id: doi:10.1117/12.2043424
   title: 'Alternations of functional connectivity in amblyopia patients: a resting-state
     fMRI study'
   authors:
@@ -383,7 +386,7 @@
   image: https://spie.org/Images/Graphics/ConferenceLogo/mi.svg
   plugin: sources.py
   file: sources.yaml
-- id: 10.3389/fgene.2023.1256468
+- id: doi:10.3389/fgene.2023.1256468
   title: 'Editorial: Bioinformatics analysis of omics data for biomarker identification
     in clinical research, Volume II'
   authors:
@@ -399,7 +402,7 @@
   image: https://curehht.org/wp-content/uploads/2017/11/Frontiers-in-Genetics-logo.png
   plugin: sources.py
   file: sources.yaml
-- id: 10.1101/2024.04.25.590553
+- id: doi:10.1101/2024.04.25.590553
   title: 'SAMP: Identifying Antimicrobial Peptides by an Ensemble Learning Model Based
     on Proportionalized Split Amino Acid Composition'
   authors:
@@ -417,7 +420,7 @@
   image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
   plugin: sources.py
   file: sources.yaml
-- id: 10.1007/978-3-319-68843-5_10
+- id: doi:10.1007/978-3-319-68843-5_10
   title: 'Computer-Aided Prognosis: Accurate Prediction of Patients with Neurologic
     and Psychiatric Diseases via Multi-modal MRI Analysis'
   authors:
@@ -430,7 +433,7 @@
   link: https://doi.org/g83wkg
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/APSAR.2009.5374134
+- id: doi:10.1109/APSAR.2009.5374134
   title: Flooded area detection using multi-temporal TerraSAR-X data
   authors:
   - Xin Lu
@@ -442,7 +445,7 @@
   link: https://doi.org/d52rjt
   plugin: sources.py
   file: sources.yaml
-- id: 10.1158/1538-7445.AM2024-4907
+- id: doi:10.1158/1538-7445.AM2024-4907
   title: 'Abstract 4907: RanBALL: Identifying B-cell acute lymphoblastic leukemia
     subtypes based on an ensemble random projection model'
   authors:
@@ -457,7 +460,7 @@
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/84/6_supplement/1/m_canres_84_6_cover.png?Expires=1745374425&Signature=btHABNE70oAhzM98ad70aidAIRoUlJQYLAFtTp2dbUICTl-qqJQEuysdCTMg7-90Ctxj9UK3RuXcPyJIAVtnjNOK6DeG6OvzdII4DUjpYdkw9QZ1wDOyLDXxWcG3MkOdhjq6RI8fTrHMboy4pwsdHR05SRU3URu9G2njBcGYDe0vYO5PYsxD61e7WkcXinGyYbMeHnHROF9uDoe9xwPH4Slm7nPSvPPJGDtNcvkzKejoR-3fzjnHhsCQNvWadEV-We44E58DzOEgLzpBkF8MjK-fbM-7aAFpLEKRBOnaYGMVUfR26hRoM3Boig8Wue~dsPDC8yWdN2Ht4YliA7csgQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
-- id: 10.3389/fonc.2023.1125186
+- id: doi:10.3389/fonc.2023.1125186
   title: 'Editorial: Single cell meets metabolism and cancer biology'
   authors:
   - Jieqiong Wang
@@ -468,7 +471,7 @@
   image: https://www.frontiersin.org/files/Taxonomy/2935.JPEG
   plugin: sources.py
   file: sources.yaml
-- id: 10.3389/fgene.2022.876686
+- id: doi:10.3389/fgene.2022.876686
   title: A Sequence Obfuscation Method for Protecting Personal Genomic Privacy
   authors:
   - Shibiao Wan
@@ -479,7 +482,7 @@
   image: https://curehht.org/wp-content/uploads/2017/11/Frontiers-in-Genetics-logo.png
   plugin: sources.py
   file: sources.yaml
-- id: 10.1101/2024.09.25.614862
+- id: doi:10.1101/2024.09.25.614862
   title: "WIMOAD: Weighted Integration of Multi-Omics data for Alzheimer\u2019s Disease\
     \ (AD) Diagnosis"
   authors:
@@ -492,7 +495,7 @@
   image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
   plugin: sources.py
   file: sources.yaml
-- id: 10.1101/2024.09.24.614777
+- id: doi:10.1101/2024.09.24.614777
   title: 'RanBALL: An Ensemble Random Projection Model for Identifying Subtypes of
     B-Cell Acute Lymphoblastic Leukemia'
   authors:
@@ -509,7 +512,7 @@
   image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
   plugin: sources.py
   file: sources.yaml
-- id: 10.1002/hbm.70013
+- id: doi:10.1002/hbm.70013
   title: Locus coeruleus microstructural integrity is associated with vigilance vulnerability
     to sleep deprivation
   authors:
@@ -529,7 +532,7 @@
   image: https://onlinelibrary.wiley.com/cms/asset/8309db05-5460-4ca3-a779-d97319129b33/hbm.v45.13.cover.jpg
   plugin: sources.py
   file: sources.yaml
-- id: 10.1158/1538-7445.AM2024-4800
+- id: doi:10.1158/1538-7445.AM2024-4800
   title: 'Abstract 4800: Reducing health disparities for prostate adenocarcinoma by
     integrating multi-omics data via a multi-modal transfer learning approach'
   authors:
@@ -542,7 +545,7 @@
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/84/6_supplement/1/m_canres_84_6_cover.png?Expires=1745374425&Signature=btHABNE70oAhzM98ad70aidAIRoUlJQYLAFtTp2dbUICTl-qqJQEuysdCTMg7-90Ctxj9UK3RuXcPyJIAVtnjNOK6DeG6OvzdII4DUjpYdkw9QZ1wDOyLDXxWcG3MkOdhjq6RI8fTrHMboy4pwsdHR05SRU3URu9G2njBcGYDe0vYO5PYsxD61e7WkcXinGyYbMeHnHROF9uDoe9xwPH4Slm7nPSvPPJGDtNcvkzKejoR-3fzjnHhsCQNvWadEV-We44E58DzOEgLzpBkF8MjK-fbM-7aAFpLEKRBOnaYGMVUfR26hRoM3Boig8Wue~dsPDC8yWdN2Ht4YliA7csgQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
-- id: 10.1101/2025.02.24.640010
+- id: doi:10.1101/2025.02.24.640010
   title: Accurate identification of medulloblastoma subtypes from diverse data sources
     with severe batch effects by RaMBat
   authors:
@@ -555,7 +558,7 @@
   image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
   plugin: sources.py
   file: sources.yaml
-- id: 10.1200/JCO.2025.43.5_suppl.242
+- id: doi:10.1200/JCO.2025.43.5_suppl.242
   title: "<i>g</i>\n            -Rate\u2013based machine learning model to predict\
     \ overall survival (OS) in patients with metastatic prostate cancer (mPC) while\
     \ on treatment."
