@@ -201,7 +201,7 @@
   publisher: Brain Imaging and Behavior
   date: '2016-10-04'
   link: https://doi.org/gj26pq
-  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/11682?as=webp
+  image: https://media.springernature.com/w230/springer-static/cover/journal/11682/11/1.jpg?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s00330-016-4221-x
@@ -436,6 +436,7 @@
   publisher: Intelligent Systems Reference Library
   date: '2018-01-01'
   link: https://doi.org/g83wkg
+  image: https://media.springernature.com/lw150/springer-static/cover-hires/series/8578?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/APSAR.2009.5374134
