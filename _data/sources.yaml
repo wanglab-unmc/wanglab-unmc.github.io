@@ -3,97 +3,100 @@
   description: This review paper presents recent machine learning techniques used in brain age estimation (BAE) studies.
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bfg/Issue/24/5/m_cover.jpeg?Expires=1745373339&Signature=tgiCogbwVIO5rq-4QqWWIFWMU0H7f~sSz7CrBMtfMSwV1TeajBF2OQahlHCUNMdls5SVXBg1hPM3chUNtEHQcDcjSSDfXm3UBJJgfkgUoT5r-pTNwogVIQ6lL316YpC99sCKmJ-WhgTp50kGi18wYzMe2HZhb9o~xkxPesMwGhpLNY3VmP2TbysyhinvICt8mI5qyntmee8wdWPSOabhqRJtZtKLOFre8AU7VzRSNMiLyBprZuMWyUSdtasTdFr8bsFTGCk0doEwCz~Xshe9eBk8asEkkT2aLabUtMk8y2hhcC6Vn3wJBQIyeXkTiu3bh6A18YJRvl9B42K8P4hiHQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
-- id: 10.1371/journal.pone.0076105
+- id: doi:10.1371/journal.pone.0076105
   image: https://plos.org/wp-content/uploads/2024/11/logo-plos-full-color.svg
 
-- id: 10.1111/adb.12644
+- id: doi:10.1111/adb.12644
   image: https://onlinelibrary.wiley.com/cms/asset/86536fbd-4d9b-41ba-a451-1362f4ff3a40/adb.v24.5.cover.jpg
 
-- id: 10.1002/hbm.23146
+- id: doi:10.1002/hbm.23146
   image: https://onlinelibrary.wiley.com/cms/asset/1939df3b-05c6-4108-9fc8-93e4c59a876c/hbm.v37.5.cover.jpg
 
-- id: 10.1101/2024.11.12.623073
+- id: doi:10.1101/2024.11.12.623073
   image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
 
-- id: 10.1038/s41598-020-65086-x
+- id: doi:10.1038/s41598-020-65086-x
   image: https://media.springernature.com/full/nature-cms/uploads/product/srep/header-d3c533c187c710c1bedbd8e293815d5f.svg
 
-- id: 10.1007/s11517-013-1131-9
+- id: doi:10.1007/s11517-013-1131-9
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/11517?as=webp
 
-- id: 10.1038/srep18969
+- id: doi:10.1038/srep18969
   image: https://media.springernature.com/full/nature-cms/uploads/product/srep/header-d3c533c187c710c1bedbd8e293815d5f.svg
 
-- id: doi:10.3389/fnsys.2012.00063
+- id: doi:doi:10.3389/fnsys.2012.00063
 
-- id: 10.1016/j.neuropsychologia.2020.107549
+- id: doi:10.1016/j.neuropsychologia.2020.107549
   image: https://ars.els-cdn.com/content/image/X00283932.jpg
 
-- id: 10.1007/s11682-016-9597-3
+- id: doi:10.1007/s11682-016-9597-3
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/11682?as=webp
 
-- id: 10.1007/s00330-016-4221-x
+- id: doi:10.1007/s00330-016-4221-x
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/330?as=webp
 
-- id: 10.1155/2016/9849087
+- id: doi:10.1155/2016/9849087
+  image: https://onlinelibrary.wiley.com/cms/asset/be23627c-d051-4327-ae27-69b9c7a90ede/default_cover.jpg
 
-- id: 10.1038/s41598-017-04148-z
+- id: doi:10.1038/s41598-017-04148-z
 
-- id: 10.3389/fnhum.2017.00473
+- id: doi:10.3389/fnhum.2017.00473
 
-- id: 10.1016/j.jneumeth.2015.08.006
+- id: doi:10.1016/j.jneumeth.2015.08.006
 
-- id: 10.1007/978-3-642-35428-1_14
+- id: doi:10.1007/978-3-642-35428-1_14
 
-- id:  10.1109/EMBC.2016.7591617
+- id: doi:10.1109/EMBC.2016.7591617
 
-- id: 10.1016/bs.acr.2024.06.005
+- id: doi:10.1016/bs.acr.2024.06.005
   image: https://ars.els-cdn.com/content/image/X0065230X.jpg
 
-- id: 10.1117/12.2217308
+- id: doi:10.1117/12.2217308
   image: https://spie.org/Images/Graphics/ConferenceLogo/mi.svg
 
-- id: 10.3390/biom14040409
+- id: doi:10.3390/biom14040409
   image: https://pub.mdpi-res.com/img/journals/biomolecules-logo.png?8600e93ff98dbf14
 
-- id: 10.1117/12.2216647
+- id: doi:10.1117/12.2216647
   image: https://spie.org/Images/Graphics/ConferenceLogo/mi.svg
 
-- id: 10.1117/12.2043424
+- id: doi:10.1117/12.2043424
   image: https://spie.org/Images/Graphics/ConferenceLogo/mi.svg
 
-- id: 10.3389/fgene.2023.1256468
+- id: doi:10.3389/fgene.2023.1256468
   image: https://curehht.org/wp-content/uploads/2017/11/Frontiers-in-Genetics-logo.png
 
-- id: 10.1101/2024.04.25.590553
+- id: doi:10.1101/2024.04.25.590553
   image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
 
-- id: 10.1007/978-3-319-68843-5_10
+- id: doi:10.1007/978-3-319-68843-5_10
 
-- id: 10.1109/APSAR.2009.5374134
+- id: doi:10.1109/APSAR.2009.5374134
 
-- id: 10.1158/1538-7445.AM2024-4907
+- id: doi:10.1158/1538-7445.AM2024-4907
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/84/6_supplement/1/m_canres_84_6_cover.png?Expires=1745374425&Signature=btHABNE70oAhzM98ad70aidAIRoUlJQYLAFtTp2dbUICTl-qqJQEuysdCTMg7-90Ctxj9UK3RuXcPyJIAVtnjNOK6DeG6OvzdII4DUjpYdkw9QZ1wDOyLDXxWcG3MkOdhjq6RI8fTrHMboy4pwsdHR05SRU3URu9G2njBcGYDe0vYO5PYsxD61e7WkcXinGyYbMeHnHROF9uDoe9xwPH4Slm7nPSvPPJGDtNcvkzKejoR-3fzjnHhsCQNvWadEV-We44E58DzOEgLzpBkF8MjK-fbM-7aAFpLEKRBOnaYGMVUfR26hRoM3Boig8Wue~dsPDC8yWdN2Ht4YliA7csgQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
-- id: 10.3389/fonc.2023.1125186
+- id: doi:10.3389/fonc.2023.1125186
   image: https://www.frontiersin.org/files/Taxonomy/2935.JPEG
 
-- id: 10.3389/fgene.2022.876686
+- id: doi:10.3389/fgene.2022.876686
   image: https://curehht.org/wp-content/uploads/2017/11/Frontiers-in-Genetics-logo.png
 
-- id: 10.1101/2024.09.25.614862
+- id: doi:10.1101/2024.09.25.614862
   image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
 
-- id: 10.1101/2024.09.24.614777
+- id: doi:10.1101/2024.09.24.614777
   image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
 
-- id: 10.1002/hbm.70013
+- id: doi:10.1002/hbm.70013
   image: https://onlinelibrary.wiley.com/cms/asset/8309db05-5460-4ca3-a779-d97319129b33/hbm.v45.13.cover.jpg
 
-- id: 10.1158/1538-7445.AM2024-4800
+- id: doi:10.1158/1538-7445.AM2024-4800
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/84/6_supplement/1/m_canres_84_6_cover.png?Expires=1745374425&Signature=btHABNE70oAhzM98ad70aidAIRoUlJQYLAFtTp2dbUICTl-qqJQEuysdCTMg7-90Ctxj9UK3RuXcPyJIAVtnjNOK6DeG6OvzdII4DUjpYdkw9QZ1wDOyLDXxWcG3MkOdhjq6RI8fTrHMboy4pwsdHR05SRU3URu9G2njBcGYDe0vYO5PYsxD61e7WkcXinGyYbMeHnHROF9uDoe9xwPH4Slm7nPSvPPJGDtNcvkzKejoR-3fzjnHhsCQNvWadEV-We44E58DzOEgLzpBkF8MjK-fbM-7aAFpLEKRBOnaYGMVUfR26hRoM3Boig8Wue~dsPDC8yWdN2Ht4YliA7csgQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
-- id: 10.1101/2025.02.24.640010
+- id: doi:10.1101/2025.02.24.640010
   image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
 
-- id: 10.1200/JCO.2025.43.5_suppl.242
+- id: doi:10.1200/JCO.2025.43.5_suppl.242
   image: https://ascopubs.org/action/showCoverImage?journalCode=jco&imgSize=small
 
