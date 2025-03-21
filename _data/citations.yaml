@@ -315,6 +315,7 @@
     Medicine and Biology Society (EMBC)
   date: '2016-08-01'
   link: https://doi.org/g83wj7
+  image: images/EMBC16.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/bs.acr.2024.06.005
