@@ -27,7 +27,7 @@ events:
     presenter: "Charlie Soh"
     topic: "Deep Relation Learning for Regression and Its Application to Brain Age Estimation"
     location: "DRC II 3001"
-  - date: "2025-04-21"
+  - date: "2025-04-28"
     presenter: "Ruobing Liu"
     topic: "Global-Local Transformer for Brain Age Estimation"
     location: "DRC II 3001"
