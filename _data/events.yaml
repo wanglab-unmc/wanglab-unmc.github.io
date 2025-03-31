@@ -1,0 +1,13 @@
+events:
+  - date: "2024-04-05"
+    presenter: "Dr. Jieqiong Wang"
+    topic: "AI in Neuroimaging"
+    location: "Room 402, Neuroscience Building"
+  - date: "2024-04-12"
+    presenter: "John Doe"
+    topic: "Functional Connectivity in fMRI"
+    location: "Zoom"
+  - date: "2024-04-19"
+    presenter: "Ziyang Xu"
+    topic: "BNST Segmentation with Deep Learning"
+    location: "Room 402"
