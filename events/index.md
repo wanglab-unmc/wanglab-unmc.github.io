@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Events
 nav:
   order: 7
   tooltip: Lab Events
