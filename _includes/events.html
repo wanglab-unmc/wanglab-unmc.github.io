@@ -1,0 +1,22 @@
+<h2>Lab Events – Upcoming Meetings</h2>
+
+<table class="events-table">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Presenter</th>
+      <th>Topic</th>
+      <th>Location</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for event in site.data.events.events %}
+    <tr>
+      <td>{{ event.date }}</td>
+      <td>{{ event.presenter }}</td>
+      <td>{{ event.topic }}</td>
+      <td>{{ event.location }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
