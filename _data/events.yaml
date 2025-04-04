@@ -1,5 +1,5 @@
 events:
-  - date: "2025-03-03"
+  - date: "2026-03-03"
     presenter: "Ziyang Xu"
     topic: "Deep Learning-Based Automated Segmentation of the Bed Nucleus of the Stria Terminals with nnU-Net"
     location: "DRC II 3001"
