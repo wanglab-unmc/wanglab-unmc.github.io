@@ -4,6 +4,7 @@ image: images/azzam.jpg
 description: Postdoctoral Research Associate
 role: postdoc
 links:
+  google-scholar: kxsoiCoAAAAJ
   website: https://mohazzam1.github.io/
 ---
 
