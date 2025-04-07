@@ -17,7 +17,7 @@ events:
     location: "DRC II 3001"
   - date: "2025-04-07"
     presenter: "Ziyang Xu"
-    topic: "An Introduction to 3D-trans-U-Net"
+    topic: "Introduction to TransUNet"
     location: "DRC II 3001"
   - date: "2025-04-14"
     presenter: "Esther Ugwueke"
