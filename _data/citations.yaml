@@ -408,9 +408,9 @@
   image: https://curehht.org/wp-content/uploads/2017/11/Frontiers-in-Genetics-logo.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2024.04.25.590553
-  title: 'SAMP: Identifying Antimicrobial Peptides by an Ensemble Learning Model Based
-    on Proportionalized Split Amino Acid Composition'
+- id: 10.1093/bfgp/elae046
+  title: 'SAMP: Identifying antimicrobial peptides by an ensemble learning model based
+    on proportionalized split amino acid composition'
   authors:
   - Junxi Feng
   - Mengtao Sun
@@ -420,10 +420,10 @@
   - Jieqiong Wang
   - Guangshun Wang
   - Shibiao Wan
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-04-26'
-  link: https://doi.org/g83wkf
-  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
+  publisher: Briefings in Functional Genomics
+  date: '2024-11-01'
+  link: https://doi.org/g9ffbz
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bfg/Issue/24/5/m_cover.jpeg?Expires=1745373339&Signature=tgiCogbwVIO5rq-4QqWWIFWMU0H7f~sSz7CrBMtfMSwV1TeajBF2OQahlHCUNMdls5SVXBg1hPM3chUNtEHQcDcjSSDfXm3UBJJgfkgUoT5r-pTNwogVIQ6lL316YpC99sCKmJ-WhgTp50kGi18wYzMe2HZhb9o~xkxPesMwGhpLNY3VmP2TbysyhinvICt8mI5qyntmee8wdWPSOabhqRJtZtKLOFre8AU7VzRSNMiLyBprZuMWyUSdtasTdFr8bsFTGCk0doEwCz~Xshe9eBk8asEkkT2aLabUtMk8y2hhcC6Vn3wJBQIyeXkTiu3bh6A18YJRvl9B42K8P4hiHQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-319-68843-5_10
