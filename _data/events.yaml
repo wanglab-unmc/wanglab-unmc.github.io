@@ -3,46 +3,57 @@ events:
     presenter: "Ziyang Xu"
     topic: "Deep Learning-Based Automated Segmentation of the Bed Nucleus of the Stria Terminals with nnU-Net"
     location: "DRC II 3001"
+    
   - date: "2025-03-10"
     presenter: "Esther Ugwueke"
     topic: "CTDE model: A deep and joint learning of longitudinal data for Alzhiemer's disease prediction"
     location: "DRC II 3001"
+    
   - date: "2025-03-17"
     presenter: "Charlie Soh"
     topic: "BASE: Brain Age Standardized Evaluation"
     location: "DRC II 3001"
+    
   - date: "2025-03-24"
     presenter: "Ruobing Liu"
     topic: "BPGAN-MRI to PET 3D Synthesis"
     location: "DRC II 3001"
+    
   - date: "2025-04-07"
     presenter: "Ziyang Xu"
     topic: "Introduction to TransUNet"
     location: "DRC II 3001"
+    
   - date: "2025-04-14"
     presenter: "Esther Ugwueke"
     topic: "Pediatric low-grade glioma: Survival Prediction Using Machine Learning Models"
     location: "DRC II 3001"
+    
   - date: "2025-04-21"
     presenter: "Charlie Soh"
     topic: "Deep Relation Learning for Regression and Its Application to Brain Age Estimation"
     location: "DRC II 3001"
+    
   - date: "2025-05-05"
     presenter: "Ruobing Liu"
     topic: "Global-Local Transformer for Brain Age Estimation"
     location: "DRC II 3001"
+    
   - date: "2025-05-12"
     presenter: "Ziyang Xu"
     topic: "MRI harmonization"
     location: "DRC II 3001"
+    
   - date: "2025-05-19"
     presenter: "Esther Ugwueke"
     topic: "Treatment Efficacy in Prostate Cancer"
     location: "DRC II 3001"
+    
   - date: "2025-06-02"
     presenter: "Charlie Soh"
     topic: "TBD"
     location: "DRC II 3001"
+    
   - date: "2025-06-09"
     presenter: "Ruobing Liu"
     topic: "TBD"
