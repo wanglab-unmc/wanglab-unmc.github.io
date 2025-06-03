@@ -51,10 +51,20 @@ events:
     
   - date: "2025-06-02"
     presenter: "Charlie Soh"
-    topic: "TBD"
+    topic: "MK-3DCNN for automated detection of lung nodules in chest CT scans"
     location: "DRC II 3001"
     
   - date: "2025-06-09"
     presenter: "Ruobing Liu"
+    topic: "Self Supervised Learning"
+    location: "DRC II 3001"
+
+  - date: "2025-06-16"
+    presenter: "Ziyang Xu"
     topic: "TBD"
+    location: "DRC II 3001"
+
+  - date: "2025-06-23"
+    presenter: "Esther Ugwueke"
+    topic: "Foundation Models in Medical Imaging Segmentation"
     location: "DRC II 3001"
