@@ -727,3 +727,20 @@
   image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.48550/arXiv.2505.09105
+  title: Model-free High Dimensional Mediator Selection with False Discovery Rate
+    Control
+  authors:
+  - Runqiu Wang
+  - Ran Dai
+  - Jieqiong Wang
+  - Charlie Soh
+  - Ziyang Xu
+  - Mohamed Azzam
+  - Cheng Zheng
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/g9pspf
+  image: images/arxiv-logo.png
+  plugin: sources.py
+  file: sources.yaml
