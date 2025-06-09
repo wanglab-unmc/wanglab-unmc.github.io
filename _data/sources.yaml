@@ -136,3 +136,6 @@
 
 - id: doi:10.1101/2025.05.20.655179
   image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
+
+- id: doi:10.48550/arXiv.2505.09105
+  image: images/arxiv-logo.png
