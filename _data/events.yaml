@@ -49,7 +49,7 @@ events:
     topic: "Treatment Efficacy in Prostate Cancer"
     location: "DRC II 3001"
     
-  - date: "2025-06-02"
+  - date: "2025-06-03"
     presenter: "Charlie Soh"
     topic: "MK-3DCNN for automated detection of lung nodules in chest CT scans"
     location: "DRC II 3001"
