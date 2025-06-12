@@ -61,7 +61,7 @@ events:
 
   - date: "2025-06-16"
     presenter: "Ziyang Xu"
-    topic: "TBD"
+    topic: "MA-SAM: Modality-agnostic SAM adaptation for 3D medical image segmentation"
     location: "DRC II 3001"
 
   - date: "2025-06-23"
