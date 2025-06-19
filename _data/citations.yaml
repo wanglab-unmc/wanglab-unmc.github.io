@@ -90,7 +90,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2024-11-14'
   link: https://doi.org/g8z7sm
-  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
+  image: images/biorxiv_logo.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41598-020-65086-x
@@ -490,8 +490,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2024.09.25.614862
-  title: "WIMOAD: Weighted Integration of Multi-Omics data for Alzheimer\u2019s Disease\
-    \ (AD) Diagnosis"
+  title: "WIMOAD: Weighted Integration of Multi-Omics Data with Meta Learning for\
+    \ Alzheimer\u2019s Disease Diagnosis"
   authors:
   - Hanyu Xiao
   - Jieqiong Wang
@@ -499,7 +499,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2024-09-27'
   link: https://doi.org/g83wkm
-  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
+  image: images/biorxiv_logo.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2024.09.24.614777
@@ -516,7 +516,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2024-09-26'
   link: https://doi.org/g83wkn
-  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
+  image: images/biorxiv_logo.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/hbm.70013
@@ -562,7 +562,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2025-02-28'
   link: https://doi.org/g87p3m
-  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
+  image: images/biorxiv_logo.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1200/JCO.2025.43.5_suppl.242
@@ -710,7 +710,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2025-05-07'
   link: https://doi.org/g9hs46
-  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
+  image: images/biorxiv_logo.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2025.05.20.655179
@@ -724,7 +724,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2025-05-22'
   link: https://doi.org/g9k5hn
-  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
+  image: images/biorxiv_logo.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2505.09105
