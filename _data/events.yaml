@@ -68,3 +68,13 @@ events:
     presenter: "Esther Ugwueke"
     topic: "Foundation Models in Medical Imaging Segmentation"
     location: "DRC II 3001"
+
+  - date: "2025-06-30"
+    presenter: "Charlie Soh"
+    topic: "TBD"
+    location: "DRC II 3001"
+    
+  - date: "2025-07-07"
+    presenter: "Ruobing Liu"
+    topic: "TBD"
+    location: "DRC II 3001"
