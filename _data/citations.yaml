@@ -17,7 +17,7 @@
   link: https://doi.org/g8z7sw
   description: This review paper presents recent machine learning techniques used
     in brain age estimation (BAE) studies.
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bfg/Issue/23/6/1/m_cover.jpeg?Expires=1749087727&Signature=sRCld~I2fENBp~yOfdHCjP7eSg5z8B1zaj7RCBB7v9IDMckMdm6-WS-EkXsYdXs73z0RWOT1rpN7pvpqfcCABl7mS4KYK0QaMHgbO-4s7QQ67-oysnlehoNiv~m1yiBYECRs7wsfQqGBypFnRbJaQq1HzZVw5zWJzi4jWpW9t2Yf28JjUx9t3OjP9yIwUuIaNVEUCc8NG7eSYVQ9pCbyl2kbXYrbzmApstnBsuQMCVyAo2VVKDf4~MksCe-SRdi3SAbi0Oxbf8mBRP7hLSlYJE1sZsDPKPKWhAsktiZNakgS8fxPOeMAug1b9sVoFW24x-2eSUXgc9QFr6BckGbtwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/briefings_in_functional_genomics.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1371/journal.pone.0076105
@@ -422,7 +422,7 @@
   publisher: Briefings in Functional Genomics
   date: '2024-11-01'
   link: https://doi.org/g9ffbz
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bfg/Issue/23/6/1/m_cover.jpeg?Expires=1749087727&Signature=sRCld~I2fENBp~yOfdHCjP7eSg5z8B1zaj7RCBB7v9IDMckMdm6-WS-EkXsYdXs73z0RWOT1rpN7pvpqfcCABl7mS4KYK0QaMHgbO-4s7QQ67-oysnlehoNiv~m1yiBYECRs7wsfQqGBypFnRbJaQq1HzZVw5zWJzi4jWpW9t2Yf28JjUx9t3OjP9yIwUuIaNVEUCc8NG7eSYVQ9pCbyl2kbXYrbzmApstnBsuQMCVyAo2VVKDf4~MksCe-SRdi3SAbi0Oxbf8mBRP7hLSlYJE1sZsDPKPKWhAsktiZNakgS8fxPOeMAug1b9sVoFW24x-2eSUXgc9QFr6BckGbtwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/briefings_in_functional_genomics.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-319-68843-5_10
