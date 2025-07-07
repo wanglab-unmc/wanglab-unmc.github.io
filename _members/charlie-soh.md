@@ -2,7 +2,7 @@
 name: Charlie Soh
 image: images/charlie.jpg
 description: Graduate Research Assistant
-role: tech
+role: alum
 links:
   google-scholar: G_BD8ZUAAAAJ
 ---
