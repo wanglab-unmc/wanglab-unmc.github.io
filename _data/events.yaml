@@ -76,7 +76,7 @@ events:
 
   - date: "2025-07-21"
     presenter: "Ziyang Xu"
-    topic: "TBD"
+    topic: "Deep semi-supervised learning for medical image segmentation"
     location: "DRC II 3001"
 
   - date: "2025-08-04"
