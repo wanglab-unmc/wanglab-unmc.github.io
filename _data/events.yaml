@@ -71,7 +71,7 @@ events:
     
   - date: "2025-07-07"
     presenter: "Ruobing Liu"
-    topic: "TBD"
+    topic: "3D MedDiffusion: A 3D Medical Latent Diffusion Model for Controllable and High-quality Medical Image Generation"
     location: "DRC II 3001"
 
   - date: "2025-07-28"
