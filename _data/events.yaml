@@ -68,10 +68,20 @@ events:
     presenter: "Esther Ugwueke"
     topic: "Foundation Models in Medical Imaging Segmentation"
     location: "DRC II 3001"
+
+  - date: "2025-06-30"
+    presenter: " - "
+    topic: "No presentation on this day"
+    location: "DRC II 3001"
     
   - date: "2025-07-07"
     presenter: "Ruobing Liu"
     topic: "3D MedDiffusion: A 3D Medical Latent Diffusion Model for Controllable and High-quality Medical Image Generation"
+    location: "DRC II 3001"
+
+  - date: "2025-07-14"
+    presenter: " - "
+    topic: "No presentation on this day"
     location: "DRC II 3001"
 
   - date: "2025-07-28"
@@ -80,8 +90,28 @@ events:
     location: "DRC II 3001"
 
   - date: "2025-08-06"
+    presenter: " - "
+    topic: "No presentation on this day"
+    location: "DRC II 1002"
+
+  - date: "2025-08-11"
     presenter: "Esther Ugwueke"
     topic: "TBD"
-    location: "DRC II 1002"
+    location: "DRC II 3001"
+
+  - date: "2025-08-18"
+    presenter: " - "
+    topic: "No presentation on this day"
+    location: "DRC II 3001"
+
+  - date: "2025-08-25"
+    presenter: "Ruobing Liu"
+    topic: "TBD"
+    location: "DRC II 3001"
+
+  - date: "2025-09-01"
+    presenter: " - "
+    topic: "No presentation on this day"
+    location: "DRC II 3001"
 
     
