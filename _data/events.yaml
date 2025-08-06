@@ -84,6 +84,11 @@ events:
     topic: "No presentation on this day"
     location: "DRC II 3001"
 
+  - date: "2025-07-21"
+    presenter: " - "
+    topic: "No presentation on this day"
+    location: "DRC II 3001"
+
   - date: "2025-07-28"
     presenter: "Ziyang Xu"
     topic: "Deep semi-supervised learning for medical image segmentation"
@@ -112,6 +117,11 @@ events:
   - date: "2025-09-01"
     presenter: " - "
     topic: "No presentation on this day"
+    location: "DRC II 3001"
+
+  - date: "2025-09-08"
+    presenter: "Ziyang Xu"
+    topic: "TBD"
     location: "DRC II 3001"
 
     
