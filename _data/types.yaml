@@ -100,6 +100,11 @@ linkedin:
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$VALUE
 
+CV:
+  icon: fa-solid fa-newspaper
+  text: CV
+  tooltip: CV
+
 # alerts
 
 tip:
