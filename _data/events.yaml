@@ -111,17 +111,40 @@ events:
 
   - date: "2025-08-25"
     presenter: "Ruobing Liu"
-    topic: "TBD"
+    topic: "NCANDA review"
     location: "DRC II 3001"
 
   - date: "2025-09-02"
     presenter: " - "
     topic: "No presentation on this day"
-    location: "DRC II 3001"
+    location: "DRC II 3002"
 
   - date: "2025-09-08"
     presenter: "Ziyang Xu"
     topic: "TBD"
     location: "DRC II 3001"
+  
+  - date: "2025-09-15"
+    presenter: " - "
+    topic: "No presentation on this day"
+    location: "DRC II 3001"
 
-    
+  - date: "2025-09-22"
+    presenter: "Esther Ugwueke"
+    topic: "TBD"
+    location: "DRC II 3001"
+
+  - date: "2025-09-29"
+    presenter: " - "
+    topic: "No presentation on this day"
+    location: "DRC II 3001"
+
+  - date: "2025-10-06"
+    presenter: "Ruobing Liu"
+    topic: "TBD"
+    location: "DRC II 3001"
+
+  - date: "2025-10-13"
+    presenter: " - "
+    topic: "No presentation on this day"
+    location: "DRC II 3002"
