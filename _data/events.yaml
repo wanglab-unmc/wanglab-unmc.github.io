@@ -121,7 +121,7 @@ events:
 
   - date: "2025-09-08"
     presenter: "Ziyang Xu"
-    topic: "TBD"
+    topic: "Domain-Adversarial Training of Neural Networks"
     location: "DRC II 3001"
   
   - date: "2025-09-15"
