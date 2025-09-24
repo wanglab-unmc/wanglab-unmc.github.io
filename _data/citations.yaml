@@ -319,11 +319,7 @@
   file: sources.yaml
 - id: doi:10.1016/bs.acr.2024.06.005
   title: Multi-omics based artificial intelligence for cancer research
-  authors:
-  - Lusheng Li
-  - Mengtao Sun
-  - Jieqiong Wang
-  - Shibiao Wan
+  authors: []
   publisher: Advances in Cancer Research
   date: '2024-01-01'
   link: https://doi.org/g83wj8
