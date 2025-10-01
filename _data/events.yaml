@@ -149,7 +149,7 @@ events:
     topic: "No presentation on this day"
     location: "DRC II 3002"
 
-    - date: "2025-10-20"
+  - date: "2025-10-20"
     presenter: "Ziyang Xu"
     topic: "TBD"
     location: "DRC II 3001"
