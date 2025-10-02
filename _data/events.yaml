@@ -142,12 +142,12 @@ events:
   - date: "2025-10-07"
     presenter: "Ruobing Liu"
     topic: "Predicting Alzheimer’s Disease Progression Using a Regression-Based Survival Model with Longitudinal Data"
-    location: "DRC II 3001"
+    location: "DRC II 3002"
 
   - date: "2025-10-13"
     presenter: " - "
     topic: "No presentation on this day"
-    location: "DRC II 3002"
+    location: "DRC II 3001"
 
   - date: "2025-10-20"
     presenter: "Ziyang Xu"
