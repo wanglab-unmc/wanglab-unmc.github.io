@@ -141,4 +141,7 @@
 - id: doi:10.48550/arXiv.2505.09105
   image: images/arxiv-logo.png
   date: '2025-05-14'
+
+- id: doi:10.1002/aisy.202500635
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/ef1af8a6-3ecb-4aa9-a63b-7f8be93bf14d/aisy.v7.9.cover.gif
   
