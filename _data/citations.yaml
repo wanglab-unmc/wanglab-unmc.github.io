@@ -741,3 +741,16 @@
   image: images/arxiv-logo.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1002/aisy.202500635
+  title: "RPSLearner: A Novel Approach Based on Random Projection and Deep Stacking\
+    \ Learning for Categorizing Non\u2010Small Cell Lung Cancer"
+  authors:
+  - Xinchao Wu
+  - Jieqiong Wang
+  - Shibiao Wan
+  publisher: Advanced Intelligent Systems
+  date: '2025-10-05'
+  link: https://doi.org/g95zgv
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/ef1af8a6-3ecb-4aa9-a63b-7f8be93bf14d/aisy.v7.9.cover.gif
+  plugin: sources.py
+  file: sources.yaml
