@@ -54,6 +54,11 @@
   image: images/EMBC16.png
 
 - id: doi:10.1016/bs.acr.2024.06.005
+  authors:
+  - Lusheng Li
+  - Mengtao Sun
+  - Jieqiong Wang
+  - Shibiao Wan
   image: https://ars.els-cdn.com/content/image/X0065230X.jpg
 
 - id: doi:10.1117/12.2217308
