@@ -83,6 +83,11 @@
   image: https://media.springernature.com/lw150/springer-static/cover-hires/series/8578?as=webp
 
 - id: doi:10.1109/APSAR.2009.5374134
+  authors:
+  - Xin Lu
+  - Jieqiong Wang
+  - Zhenghuan Wang
+  - Hong Sun
   image: images/APSAR.png
 
 - id: doi:10.1158/1538-7445.AM2024-4907
