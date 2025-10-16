@@ -154,3 +154,17 @@
 
 - id: doi:10.1002/aisy.202500635
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/ef1af8a6-3ecb-4aa9-a63b-7f8be93bf14d/aisy.v7.9.cover.gif
+
+- id: doi:
+  title: 'nnU-BNST: Deep Learning-Based Automated Segmentation of the Bed Nucleus of the Stria Terminalis'
+  authors:
+  - Ziyang Xu
+  - Mohamed Azzam
+  - Marshall Bivens
+  - Marcus Dustin
+  - Shibiao Wan3
+  - Jennifer Urbano Blackford
+  - Jieqiong Wang1
+  publisher: Springer
+  date: '2025-09-23'
+  image: https://media.springernature.com/w316/springer-static/cover-hires/book/978-3-032-09512-1?as=webp
