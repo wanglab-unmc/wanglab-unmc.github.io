@@ -151,7 +151,7 @@ events:
 
   - date: "2025-10-20"
     presenter: "Ziyang Xu"
-    topic: "TBD"
+    topic: "Semi-supervised Domain Adaptation Semantic Segmentation"
     location: "DRC II 3001"
   
   - date: "2025-10-27"
