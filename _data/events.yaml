@@ -177,7 +177,7 @@ events:
   - date: "2025-11-24"
     presenter: " - "
     topic: "No presentation on this day"
-    location: "DRC II 3002"
+    location: "DRC II 3001"
 
   - date: "2025-12-01"
     presenter: "Ziyang Xu"
@@ -207,4 +207,4 @@ events:
   - date: "2026-01-05"
     presenter: " - "
     topic: "No presentation on this day"
-    location: "DRC II 3002"
+    location: "DRC II 3001"
