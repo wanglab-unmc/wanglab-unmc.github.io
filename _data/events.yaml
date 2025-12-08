@@ -180,13 +180,13 @@ events:
     location: "DRC II 3001"
 
   - date: "2025-12-01"
-    presenter: "Ziyang Xu"
-    topic: "TBD"
+    presenter: " - "
+    topic: "No presentation on this day"
     location: "DRC II 3001"
   
   - date: "2025-12-08"
-    presenter: " - "
-    topic: "No presentation on this day"
+    presenter: "Ziyang Xu"
+    topic: "SemiDAViL: Semi-supervised Domain Adaptation with Vision-LanguageGuidance for Semantic Segmentation"
     location: "DRC II 3001"
 
   - date: "2025-12-15"
