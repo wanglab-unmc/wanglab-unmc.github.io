@@ -208,3 +208,33 @@ events:
     presenter: "Ruobing Liu"
     topic: "TBD"
     location: "DRC II 3001"
+
+  - date: "2026-01-12"
+    presenter: " - "
+    topic: "No presentation on this day"
+    location: "DRC II 3001"
+  
+  - date: "2026-01-20"
+    presenter: "Ziyang Xu"
+    topic: "TBD"
+    location: "DRC II 3001"
+    
+  - date: "2026-01-26"
+    presenter: " - "
+    topic: "No presentation on this day"
+    location: "DRC II 3001"
+
+  - date: "2026-02-02"
+    presenter: "Esther Ugwueke"
+    topic: "TBD"
+    location: "DRC II 3001"
+
+  - date: "2026-02-09"
+    presenter: " - "
+    topic: "No presentation on this day"
+    location: "DRC II 3001"
+
+  - date: "2026-02-16"
+    presenter: "Ruobing Liu"
+    topic: "TBD"
+    location: "DRC II 3001"
