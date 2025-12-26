@@ -773,3 +773,31 @@
   image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-032-09512-1?as=webp
   plugin: sources.py
   file: sources.yaml
+- id: 10.64898/2025.12.15.694538
+  title: A Multi-Modal Transfer Learning Framework to Reduce Health Disparities in
+    Prostate Adenocarcinoma
+  authors:
+  - Lusheng Li
+  - Jieqiong Wang
+  - Shibiao Wan
+  publisher: openRxiv
+  date: '2025-12-18'
+  link: https://doi.org/hbg37v
+  image: images/biorxiv_logo.png
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.64898/2025.12.22.696111
+  title: 'MOTLAB: A Weighted Multi-Omics Transfer Learning Approach to Mitigate Breast
+    Cancer Racial Disparities'
+  authors:
+  - Min-jeong Baek
+  - Lusheng Li
+  - Vimla Band
+  - Jieqiong Wang
+  - Shibiao Wan
+  publisher: openRxiv
+  date: '2025-12-25'
+  link: https://doi.org/hbg37w
+  image: images/biorxiv_logo.png
+  plugin: sources.py
+  file: sources.yaml
