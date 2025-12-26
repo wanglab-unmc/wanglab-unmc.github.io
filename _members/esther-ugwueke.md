@@ -3,6 +3,8 @@ name: Esther Ugwueke
 image: images/esther.jpg
 description: PhD Student
 role: phd
+links:
+  google-scholar: PVdic3sAAAAJ
 ---
 
 Esther Ugwueke is currently a PhD student in the Bioinformatics and Systems Biology program at the University of Nebraska Medical Center (UNMC) and serves as a Graduate Research Assistant in the Department of Neurological Sciences. She obtained her Bachelor’s degree in Biomedical Technology from Nigeria and a Master’s degree in Biotechnical Systems and Technologies from Russia.
