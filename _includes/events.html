@@ -1,22 +1,30 @@
 <h2>Lab Meetings</h2>
-Lab meetings are held every Monday 9:00 AM to 11:00 AM (CST).
-<table class="events-table">
-  <thead>
-    <tr>
-      <th>Date</th>
-      <th>Presenter</th>
-      <th>Topic</th>
-      <th>Location</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for event in site.data.events.events %}
-    <tr>
-      <td>{{ event.date }}</td>
-      <td>{{ event.presenter }}</td>
-      <td>{{ event.topic }}</td>
-      <td>{{ event.location }}</td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
+<p>Lab meetings are held every Monday, 9:00 AM to 11:00 AM (CST).</p>
+
+{% assign events_sorted = site.data.events.events | sort: "date" %}
+{% assign events_by_year = events_sorted | group_by_exp: "e", "e.date | slice: 0, 4" %}
+
+{% for y in events_by_year %}
+  <h3>{{ y.name }}</h3>
+
+  <table class="events-table">
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Presenter</th>
+        <th>Topic</th>
+        <th>Location</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for event in y.items %}
+      <tr>
+        <td>{{ event.date }}</td>
+        <td>{{ event.presenter }}</td>
+        <td>{{ event.topic }}</td>
+        <td>{{ event.location }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% endfor %}
