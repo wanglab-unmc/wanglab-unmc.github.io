@@ -1,8 +1,9 @@
 <h2>Lab Meetings</h2>
-<p>Lab meetings are held every Monday, 9:00 AM to 11:00 AM (CST).</p>
+<p>Lab meetings are held every Monday 9:00 AM to 11:00 AM (CST).</p>
 
 {% assign events_sorted = site.data.events.events | sort: "date" %}
 {% assign events_by_year = events_sorted | group_by_exp: "e", "e.date | slice: 0, 4" %}
+{% assign events_by_year = events_by_year | reverse %}
 
 {% for y in events_by_year %}
   <h3>{{ y.name }}</h3>
