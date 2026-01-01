@@ -801,3 +801,18 @@
   image: images/biorxiv_logo.png
   plugin: sources.py
   file: sources.yaml
+- id: 10.64898/2025.12.29.696875
+  title: 'MetaPaCS: A Novel Meta-Learning Framework for Pancreatic Cancer Subtype
+    Identification'
+  authors:
+  - Nicholas B Peterson
+  - Mengtao Sun
+  - Xinchao Wu
+  - Jieqiong Wang
+  - Shibiao Wan
+  publisher: openRxiv
+  date: '2025-12-29'
+  link: https://doi.org/hbhmfv
+  image: images/biorxiv_logo.png
+  plugin: sources.py
+  file: sources.yaml
