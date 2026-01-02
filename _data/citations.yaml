@@ -773,7 +773,7 @@
   image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-032-09512-1?as=webp
   plugin: sources.py
   file: sources.yaml
-- id: 10.64898/2025.12.15.694538
+- id: doi:10.64898/2025.12.15.694538
   title: A Multi-Modal Transfer Learning Framework to Reduce Health Disparities in
     Prostate Adenocarcinoma
   authors:
@@ -786,7 +786,7 @@
   image: images/biorxiv_logo.png
   plugin: sources.py
   file: sources.yaml
-- id: 10.64898/2025.12.22.696111
+- id: doi:10.64898/2025.12.22.696111
   title: 'MOTLAB: A Weighted Multi-Omics Transfer Learning Approach to Mitigate Breast
     Cancer Racial Disparities'
   authors:
@@ -801,7 +801,7 @@
   image: images/biorxiv_logo.png
   plugin: sources.py
   file: sources.yaml
-- id: 10.64898/2025.12.29.696875
+- id: doi:10.64898/2025.12.29.696875
   title: 'MetaPaCS: A Novel Meta-Learning Framework for Pancreatic Cancer Subtype
     Identification'
   authors:
