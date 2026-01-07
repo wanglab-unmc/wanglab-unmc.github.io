@@ -758,7 +758,8 @@
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/ef1af8a6-3ecb-4aa9-a63b-7f8be93bf14d/aisy.v7.9.cover.gif
   plugin: sources.py
   file: sources.yaml
-- title: 'nnU-BNST: Deep Learning-Based Automated Segmentation of the Bed Nucleus
+- id: doi:10.1007/978-3-032-09513-8_61
+  title: 'nnU-BNST: Deep Learning-Based Automated Segmentation of the Bed Nucleus
     of the Stria Terminalis'
   authors:
   - Ziyang Xu
@@ -769,7 +770,8 @@
   - Jennifer Urbano Blackford
   - Jieqiong Wang
   publisher: Lecture Notes in Computer Science
-  date: '2025-09-23'
+  date: '2026-01-01'
+  link: https://doi.org/hbh4r5
   image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-032-09512-1?as=webp
   plugin: sources.py
   file: sources.yaml
