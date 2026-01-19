@@ -2,7 +2,7 @@
 name: Ziyang Xu
 image: images/ziyangxu.jpg
 description: Research Imaging Analyst
-role: tech
+role: alum
 links:
   google-scholar: vGFuHM8AAAAJ
 
