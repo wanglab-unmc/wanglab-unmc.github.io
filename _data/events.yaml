@@ -208,6 +208,11 @@ events:
     presenter: " - "
     topic: "No presentation on this day"
     location: "DRC II 3001"
+
+  - date: "2026-01-20"
+    presenter: " - "
+    topic: "No presentation on this day"
+    location: "DRC II 3002"
     
   - date: "2026-01-26"
     presenter: "Ruobing Liu"
