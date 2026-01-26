@@ -818,3 +818,16 @@
   image: images/biorxiv_logo.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1002/1878-0261.70211
+  title: "<scp>RaMBat</scp>\n                    : Accurate identification of medulloblastoma\
+    \ subtypes from diverse data sources with severe batch effects"
+  authors:
+  - Mengtao Sun
+  - Jieqiong Wang
+  - Shibiao Wan
+  publisher: Molecular Oncology
+  date: '2026-01-22'
+  link: https://doi.org/hbmc3m
+  image: https://febs.onlinelibrary.wiley.com/cms/asset/d6aa6108-7fa7-4f91-829d-732497be3045/mol2.v20.1.cover.jpg
+  plugin: sources.py
+  file: sources.yaml
