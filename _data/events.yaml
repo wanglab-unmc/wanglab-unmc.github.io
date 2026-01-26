@@ -225,7 +225,7 @@ events:
     location: "DRC II 3001"
 
   - date: "2026-02-09"
-    presenter: "Ziyang Xu"
+    presenter: "Esther Ugwueke"
     topic: "TBD"
     location: "DRC II 3001"
 
@@ -235,18 +235,18 @@ events:
     location: "DRC II 3001"
 
   - date: "2026-02-23"
-    presenter: "Esther Ugwueke"
-    topic: "TBD"
-    location: "DRC II 3001"
-
-  - date: "2026-03-02"
     presenter: " - "
     topic: "No presentation on this day"
     location: "DRC II 3001"
 
-  - date: "2026-03-09"
+  - date: "2026-03-02"
     presenter: "Ruobing Liu"
     topic: "TBD"
+    location: "DRC II 3001"
+
+  - date: "2026-03-09"
+    presenter: "Ruobing Liu"
+    topic: "No presentation on this day"
     location: "DRC II 3001"
 
   - date: "2026-03-16"
