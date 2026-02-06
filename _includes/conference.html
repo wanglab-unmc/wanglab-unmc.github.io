@@ -1,0 +1,28 @@
+{% assign meetings_sorted = site.data.meetings.meetings | sort: "date" %}
+{% assign meetings_by_year = meetings_sorted | group_by_exp: "e", "e.date | slice: 0, 4" %}
+{% assign meetings_by_year = meetings_by_year | reverse %}
+
+{% for y in meetings_by_year %}
+  <h3>{{ y.name }}</h3>
+
+  <table class="meetings-table">
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Presenter</th>
+        <th>Topic</th>
+        <th>Location</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for meeting in y.items %}
+      <tr>
+        <td>{{ meeting.date }}</td>
+        <td>{{ meeting.presenter }}</td>
+        <td>{{ meeting.topic }}</td>
+        <td>{{ meeting.location }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% endfor %}
