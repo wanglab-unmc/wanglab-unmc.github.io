@@ -1,6 +1,5 @@
-{% assign conferences_sorted = site.data.conferences.conferences | sort: "date" %}
+{% assign conferences_sorted = site.data.conferences.conferences | sort: "date" | reverse %}
 {% assign conferences_by_year = conferences_sorted | group_by_exp: "e", "e.date | slice: 0, 4" %}
-{% assign conferences_by_year = conferences_by_year | reverse %}
 
 {% for y in conferences_by_year %}
   <h3>{{ y.name }}</h3>
