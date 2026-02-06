@@ -7,4 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-calendar-days" %}Events
 
-{% include events.html %}
+<details>
+  <summary style="font-size: 1.2em; font-weight: bold; cursor: pointer;">
+    Lab Meeting
+  </summary>
+  {% include meeting.html %}
+</details>
