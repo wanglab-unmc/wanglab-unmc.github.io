@@ -13,3 +13,10 @@ nav:
   </summary>
   {% include meeting.html %}
 </details>
+
+<details>
+  <summary style="font-size: 1.2em; font-weight: bold; cursor: pointer;">
+    Conference Deadlines
+  </summary>
+  {% include conference.html %}
+</details>
