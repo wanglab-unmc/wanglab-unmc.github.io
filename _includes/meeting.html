@@ -1,12 +1,10 @@
 <p>Lab meetings are held every Monday 9:00 AM to 11:00 AM (CST).</p>
 
-{% assign meetings_sorted = site.data.meetings.meetings | sort: "date" %}
+{% assign meetings_sorted = site.data.meetings.meetings | sort: "date" | reverse %}
 {% assign meetings_by_year = meetings_sorted | group_by_exp: "e", "e.date | slice: 0, 4" %}
 {% assign meetings_by_year = meetings_by_year | reverse %}
-
 {% for y in meetings_by_year %}
   <h3>{{ y.name }}</h3>
-
   <table class="meetings-table">
     <thead>
       <tr>
