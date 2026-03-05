@@ -169,5 +169,35 @@
 
 - id: doi:10.1002/1878-0261.70211
   image: https://febs.onlinelibrary.wiley.com/cms/asset/d6aa6108-7fa7-4f91-829d-732497be3045/mol2.v20.1.cover.jpg
-
   
+- id: doi:10.64898/2026.02.26.26346987
+  authors:
+  - Esther C Ugwueke
+  - Mohamed Azzam
+  - Mengxi Zhou 
+  - Benjamin A Teply 
+  - Raymond C Bergan 
+  - Shibiao Wan
+  - Antonio Tito Fojo 
+  - Harshraj Leuva 
+  - Jieqiong Wang
+  image: images/medRxiv_homepage_logo.png
+
+- id: doi:10.64898/2026.02.24.26347002
+  authors:
+  - Ruobing Liu
+  - Mohamed Azzam
+  - Nikki Zabik
+  - Shibiao Wan
+  - Jennifer Blackford
+  - Jieqiong Wang
+  image: images/medRxiv_homepage_logo.png
+
+- id: doi:10.1002/advs.202521936
+  authors:
+  - Xinchao Wu 
+  - Mengtao Sun 
+  - Lusheng Li
+  - Jieqiong Wang
+  - Shibiao Wan
+  image: https://advanced.onlinelibrary.wiley.com/pb-assets/journal-banners/21983844-1765893446787.jpg
