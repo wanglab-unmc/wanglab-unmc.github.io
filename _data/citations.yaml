@@ -851,3 +851,19 @@
   image: images/medRxiv_homepage_logo.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.64898/2026.02.24.26347002
+  title: 'Classification of Adolescent Drinking via Behavioral, Biological, and Environmental
+    Features: A Machine Learning Approach with Bias Control'
+  authors:
+  - Ruobing Liu
+  - Mohamed Azzam
+  - Nikki Zabik
+  - Shibiao Wan
+  - Jennifer Blackford
+  - Jieqiong Wang
+  publisher: openRxiv
+  date: '2026-02-26'
+  link: https://doi.org/hbrjz4
+  image: images/medRxiv_homepage_logo.png
+  plugin: sources.py
+  file: sources.yaml
