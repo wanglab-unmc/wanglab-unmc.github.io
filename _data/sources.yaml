@@ -173,22 +173,3 @@
 - id: doi:10.64898/2026.02.26.26346987
   image: images/medRxiv_homepage_logo.png
 
-- id: doi:10.64898/2026.02.24.26347002
-  authors:
-  - Ruobing Liu
-  - Mohamed Azzam
-  - Nikki Zabik
-  - Shibiao Wan
-  - Jennifer Blackford
-  - Jieqiong Wang
-  image: images/medRxiv_homepage_logo.png
-
-- id: doi:10.1002/advs.202521936
-  authors:
-  - Xinchao Wu 
-  - Mengtao Sun 
-  - Lusheng Li
-  - Jieqiong Wang
-  - Shibiao Wan
-  image: https://advanced.onlinelibrary.wiley.com/pb-assets/journal-banners/21983844-1765893446787.jpg
-
