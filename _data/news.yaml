@@ -1,3 +1,15 @@
+- date: 2026-04-01
+  title: 'Ruobing presents a poster on "Semi-supervised Domain Adversarial Automated Segmentation Pipeline for the Bed Nucleus of the Stria Terminalis" at CoNDA Center Colloquium.'
+  image: images/CoNDAZ2026.png
+  
+- date: 2026-04-01
+  title: 'Esther presents a poster on "Scalable AI for Fetal Ultrasound: Congenital Heart Disease Detection and Foundations for Downstream Prenatal Imaging Tasks" at CoNDA Center Colloquium.'
+  image: images/CoNDAE2026.png
+  
+- date: 2026-04-01
+  title: 'Ruobing presents a poster on "Classifying Adolescent Drinking from Baseline Behavioural, Biological, and Environmental Features" at CoNDA Center Colloquium.' 
+  image: images/CoNDAR2026.png
+  
 - date: 2026-02-26
   title: 'A preprint version of our paper on "Early treatment outcome prediction in metastatic castration-resistant prostate cancer utilizing 3-month tumor growth rate (g-rate) based machine learning model" has been published in medRxiv (2026).'
   image: images/medRxiv_homepage_logo.png
