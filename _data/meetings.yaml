@@ -225,10 +225,46 @@
 
 - date: "2026-02-09"
   presenter: "Esther Ugwueke"
-  topic: "ResDeepSurv: A Survival Model for Deep Neural Networks Based on Residual Blocks and Self‑attention Mechanism"
+  topic: "TransformerLSR: Attentive Joint Model of Longitudinal Data, Survival, and Recurrent Events with Concurrent Latent Structure"
   location: "DRC II 3001"
 
 - date: "2026-02-16"
   presenter: " - "
   topic: "No presentation on this day"
   location: "DRC II 3001"
+  
+- date: "2026-02-23"
+  presenter: " - "
+  topic: "No presentation on this day"
+  location: "DRC II 3001"
+  
+- date: "2026-03-02"
+  presenter: " - "
+  topic: "No presentation on this day"
+  location: "DRC II 3001"
+  
+- date: "2026-03-09"
+  presenter: "Ruobing Liu"
+  topic: "Dynamic-DeepHit: A Deep Learning Approach for Dynamic Survival Analysis With Competing Risks Based on Longitudinal Data"
+  location: "DRC II 6001"
+  
+- date: "2026-03-16"
+  presenter: " - "
+  topic: "No presentation on this day"
+  location: "DRC II 6001"
+  
+- date: "2026-02-23"
+  presenter: " - "
+  topic: "No presentation on this day"
+  location: "DRC II 6001"
+  
+- date: "2026-03-30"
+  presenter: " - "
+  topic: "No presentation on this day"
+  location: "DRC II 6001"  
+  
+- date: "2026-03-06"
+  presenter: "Esther Ugwueke"
+  topic: "A deep learning approach for overall survival prediction in lung cancer with missing values"
+  location: "DRC II 6001" 
+  
