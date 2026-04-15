@@ -3,6 +3,10 @@
   image: images/nexus.jpg
   description: 'Details of the conference can be found <a href="https://www.kcbioinformatics.org/conference/" target="_blank">here</a>.'
 
+- date: 2026-04-10
+  title: 'Congratulations to Ziyang Xu on accepting a PhD offer from the University of Illinois Urbana-Champaign (UIUC)! We are proud to celebrate this exciting milestone and wish you continued success in your doctoral studies.'
+  image: images/ziyangxu.jpg
+
 - date: 2026-04-01
   title: 'Ruobing presents a poster on "Semi-supervised Domain Adversarial Automated Segmentation Pipeline for the Bed Nucleus of the Stria Terminalis" at CoNDA Center Colloquium.'
   image: images/CoNDAZ2026.png
