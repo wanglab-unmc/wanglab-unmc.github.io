@@ -1,9 +1,15 @@
+- name: "2026 Big Ten Neuroscience Annual Meeting"
+  location: "UNO Scott Conference Center"
+  date: "2026-07-16 07:00am to 4:30pm"
+  deadline: "Abstract Due Date: Monday, June 1, 2026; Online registration deadline: Thursday, July 9, 2026."
+  link: "https://www.unmc.edu/cce/clinicmed/upcoming/big-ten-neuroscience/index.html"
+
 - name: "CoNDA Center Colloquium"
   location: "UNMC DRCI 1002"
   date: "2026-04-01 09:00am CT"
   deadline: "Abstract Due Date: Monday, March 2, 2026"
   link: "https://lp.constantcontactpages.com/ev/reg/3b5yvhx/lp/6f1dfc1d-e1f4-4e3d-ada8-fe6ce1ff046e"
-      
+  
 - name: "AI in Health Conference"
   location: "UNMC Truhlsen Campus Events Center"
   date: "2026-04-21 08:00am to 3:15pm CT"
