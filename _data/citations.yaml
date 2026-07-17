@@ -832,15 +832,15 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.64898/2026.02.26.26346987
-  title: <b>Early treatment outcome prediction in metastatic castration-resistant
-    prostate cancer utilizing 3-month tumor growth rate (g-rate) based machine learning
-    model</b>
+  title: "Early treatment outcome prediction in metastatic castration-resistant prostate\
+    \ cancer utilizing 3-month tumor growth rate (\n                  <i>g</i>\n \
+    \                 -rate) based machine learning model"
   authors:
-  - Esther C Ugwueke
+  - Esther C. Ugwueke
   - Mohamed Azzam
   - Mengxi Zhou
-  - Benjamin A Teply
-  - Raymond C Bergan
+  - Benjamin A. Teply
+  - Raymond C. Bergan
   - Shibiao Wan
   - Antonio Tito Fojo
   - Harshraj Leuva
