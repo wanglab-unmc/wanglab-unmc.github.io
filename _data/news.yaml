@@ -1,4 +1,16 @@
-- date: 2026-05-18
+- date: 2026-07-16
+  title: 'Ruobing presents a digital poster on "Semi-Supervised Domain Adversarial Automated Segmentation Pipeline for the Bed Nucleus of the Stria Terminalis" at 2026 Big Ten Neuroscience Annual Meeting.'
+  image: images/RuZi_BigTen.jpeg
+
+- date: 2026-07-16
+  title: 'Ruobing presents a digital poster on "Scalable AI for Fetal Ultrasound: Congenital Heart Disease Detection and Foundations for Downstream Prenatal Imaging Tasks" at 2026 Big Ten Neuroscience Annual Meeting.'
+  image: images/Ru_BigTen.jpeg
+
+- date: 2026-07-16
+  title: 'Ruobing presents a poster on "Classifying Adolescent Drinking from Baseline Behavioral, Biological, and Environmental Features" at 2026 Big Ten Neuroscience Annual Meeting.'
+  image: images/Ruo_BigTen.jpeg
+
+- date: 2026-04-21
   title: 'We are pleased to announce that our team has been awarded a new Nebraska Research Initiative (NRI) grant, with Nebraska Research Initiative support for an innovative research project focused on prenatal health. In this project, Dr. Wang will serve as Co-Project Leader. The grant will support our efforts to leverage artificial intelligence (AI) to predict the risk of congenital heart disease in prenatal fetuses. Congratulations to the entire team on this exciting achievement!'
   image: images/NRI_mayGrant.png
   description: 'Details can be found <a href="https://nebraska.edu/collaboration-initiative/" target="_blank">here</a>.'
