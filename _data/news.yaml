@@ -1,3 +1,8 @@
+- date: 2026-07-23
+  title: 'We are pleased to announce that the Wang Lab has received funding through a four-year NSF Focused EPSCoR Collaboration grant involving UNMC, the University of Idaho, and Clemson University. The $6 million multi-institutional project will support the development of multi-omics foundation models and advanced cell segmentation methods. Congratulations to Dr. Wan, Dr. Wang, and all participating lab members!'
+  image: images/info.jpeg
+  description: 'Details can be found <a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2614824" target="_blank">here</a>.'
+
 - date: 2026-07-16
   title: 'Ruobing presents a digital poster on "Semi-Supervised Domain Adversarial Automated Segmentation Pipeline for the Bed Nucleus of the Stria Terminalis" at 2026 Big Ten Neuroscience Annual Meeting.'
   image: images/RuZi_BigTen.jpeg
