@@ -1,10 +1,10 @@
 - date: 2026-07-27
   title: 'We are pleased to announce that the Wang Lab has been awarded a competitive CHRI AI Grant!. The project will leverage AI and ultrasound imaging to develop multi-scale fetal biological age clocks. Congratulations to the entire team on this exciting achievement!'
-  image: images/CHRIg.jpeg
+  image: images/CHRI_grant.jpg
 
 - date: 2026-07-23
   title: 'We are pleased to announce that the Wang Lab has received funding through a four-year NSF Focused EPSCoR Collaboration grant involving UNMC, the University of Idaho, and Clemson University. The project will support the development of multi-omics foundation models and advanced cell segmentation methods. Congratulations to Dr. Wan, Dr. Wang, and all participating lab members!'
-  image: images/EPSCoR.jpeg
+  image: images/nsf_grant.jpeg
   description: 'Details can be found <a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2614824" target="_blank">here</a>.'
 
 - date: 2026-07-16
