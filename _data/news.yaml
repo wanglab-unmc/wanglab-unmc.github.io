@@ -1,7 +1,11 @@
+- date: 2026-07-31
+  title: 'Our paper "WIMOAD: Weighted Integration of Multi-Omics Data with Meta Learning for Alzheimer’s Disease Diagnosis" is accepted by Journal of Alzheimers Disease. Congratulations to all co-authors!'
+  image: images/JAD.png
+
 - date: 2026-07-27
   title: 'We are pleased to announce that the Wang Lab has been awarded a competitive CHRI AI Grant!. The project will leverage AI and ultrasound imaging to develop multi-scale fetal biological age clocks. Congratulations to the entire team on this exciting achievement!'
   image: images/CHRI_grant.jpg
-
+  
 - date: 2026-07-23
   title: 'We are pleased to announce that the Wang Lab has received funding through a four-year NSF Focused EPSCoR Collaboration grant involving UNMC, the University of Idaho, and Clemson University. The project will support the development of multi-omics foundation models and advanced cell segmentation methods. Congratulations to Dr. Wan, Dr. Wang, and all participating lab members!'
   image: images/nsf_grant.jpeg
