@@ -1,7 +1,11 @@
+- date: 2026-08-20
+  title: 'We are pleased to share that Dr. Jieqiong Wang has been selected as a recipient of the UNMC New Investigator Award, presented by the Office of the Vice Chancellor for Research (VCR). The award recognizes outstanding early-career investigators and their contributions to research at UNMC. The award ceremony will be held on October 29, 2026. Congratulations to Dr. Wang on this well-deserved recognition!'
+  image: images/dr_wang.jpg
+
 - date: 2026-08-06
   title: 'We are thrilled to announce that the Wang Lab has been awarded a new NIH R21 grant. The project will develop an automated BNST segmentation algorithm and explore the role of the BNST in adolescent alcohol use. Congratulations to the entire team on this exciting achievement!'
   image: https://www.nih.gov/sites/default/files/styles/max_650x650/public/2025-01/nih-logo-2012_0.png?itok=HghcriN_
-  
+
 - date: 2026-07-31
   title: 'Our paper "WIMOAD: Weighted Integration of Multi-Omics Data with Meta Learning for Alzheimer’s Disease Diagnosis" is accepted by Journal of Alzheimers Disease. Congratulations to all co-authors!'
   image: images/JAD.png
