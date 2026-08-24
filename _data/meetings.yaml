@@ -267,4 +267,38 @@
   presenter: "Esther Ugwueke"
   topic: "A deep learning approach for overall survival prediction in lung cancer with missing values"
   location: "DRC II 6001" 
+
+- date: "2026-05-11"
+  presenter: "Ruobing Liu"
+  topic: "Cross-Dataset Evaluation of Dementia Longitudinal Progression Prediction Models"
+  location: "DRC II 6001" 
+
+- date: "2026-05-18 to 2026-09-07"
+  presenter: " - "
+  topic: "No presentation"
+  location: "DRC II 6001"
+
+- date: "2026-09-14"
+  presenter: "Ruobing Liu"
+  topic: "TBA"
+  location: "DRC II 6001" 
+
+- date: "2026-09-21"
+  presenter: " - "
+  topic: "No presentation on this day"
+  location: "DRC II 6001"
   
+- date: "2026-09-28"
+  presenter: "Esther Ugwueke"
+  topic: "TBA"
+  location: "DRC II 6001"  
+
+- date: "2026-10-05"
+  presenter: " - "
+  topic: "No presentation on this day"
+  location: "DRC II 6001"
+
+- date: "2026-10-12"
+  presenter: "Liang Zhao"
+  topic: "TBA"
+  location: "DRC II 6001"
