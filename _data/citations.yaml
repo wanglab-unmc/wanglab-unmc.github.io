@@ -1,43 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.64898/2026.09.27.26364127
-  title: 'Predicting the Timing of Adolescent Drinking Onset from Baseline Clinical
-    Data: A Stacked-Encoder Survival Framework with Embedding-Derived Biotypes'
-  authors:
-  - Ruobing Liu
-  - Mohamed Azzam
-  - Esther C Ugwueke
-  - Nicole L. Zabik
-  - Shibiao Wan
-  - Jennifer Blackford
-  - Jieqiong Wang
-  publisher: openRxiv
-  date: '2026-09-29'
-  link: https://doi.org/hcmfrj
-  image: images/medRxiv_homepage_logo.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2609.31376
-  title: Towards Whole-Study Screening for Congenital Heart Disease in Fetal Ultrasound
-    Using Multiple Instance Learning
-  authors:
-  - Mohamed Azzam
-  - Ruobing Liu
-  - Esther C. Ugwueke
-  - Ziyang Xu
-  - Shibiao Wan
-  - Alex Foy
-  - Abraham Zabih
-  - Jason Christensen
-  - Neil Hamill
-  - Ling Li
-  - Jieqiong Wang
-  publisher: arXiv
-  date: '2026-09-25'
-  link: https://doi.org/hcmfpg
-  image: https://arxiv.org/static/base/1.0.1/images/arxiv-logo-primary-light.svg
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1111/adb.70188
   title: 'Classification of Adolescent Drinking via Behavioral, Biological and Environmental
     Variables: A Machine Learning Approach With Bias Control'
@@ -905,19 +867,41 @@
   image: images/medRxiv_homepage_logo.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.64898/2026.02.24.26347002
-  title: 'Classification of Adolescent Drinking via Behavioral, Biological, and Environmental
-    Features: A Machine Learning Approach with Bias Control'
+- id: doi:10.64898/2026.09.27.26364127
+  title: 'Predicting the Timing of Adolescent Drinking Onset from Baseline Clinical
+    Data: A Stacked-Encoder Survival Framework with Embedding-Derived Biotypes'
   authors:
   - Ruobing Liu
   - Mohamed Azzam
-  - Nikki Zabik
+  - Esther C Ugwueke
+  - Nicole L. Zabik
   - Shibiao Wan
   - Jennifer Blackford
   - Jieqiong Wang
   publisher: openRxiv
-  date: '2026-02-26'
-  link: https://doi.org/hbrjz4
+  date: '2026-09-29'
+  link: https://doi.org/hcmfrj
   image: images/medRxiv_homepage_logo.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2609.31376
+  title: Towards Whole-Study Screening for Congenital Heart Disease in Fetal Ultrasound
+    Using Multiple Instance Learning
+  authors:
+  - Mohamed Azzam
+  - Ruobing Liu
+  - Esther C. Ugwueke
+  - Ziyang Xu
+  - Shibiao Wan
+  - Alex Foy
+  - Abraham Zabih
+  - Jason Christensen
+  - Neil Hamill
+  - Ling Li
+  - Jieqiong Wang
+  publisher: arXiv
+  date: '2026-09-25'
+  link: https://doi.org/hcmfpg
+  image: https://arxiv.org/static/base/1.0.1/images/arxiv-logo-primary-light.svg
   plugin: sources.py
   file: sources.yaml
