@@ -805,10 +805,10 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.64898/2025.12.22.696111
-  title: 'MOTLAB: A Weighted Multi-Omics Transfer Learning Approach to Mitigate Breast
-    Cancer Racial Disparities'
+  title: 'MOTLAB: A Weighted Multi-Omics Transfer Learning Framework for Reducing
+    Racial Disparities in Breast Cancer'
   authors:
-  - Min-jeong Baek
+  - Minjeong Baek
   - Lusheng Li
   - Vimla Band
   - Jieqiong Wang
