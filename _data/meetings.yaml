@@ -290,7 +290,7 @@
   
 - date: "2026-09-28"
   presenter: "Esther Ugwueke"
-  topic: "TBA"
+  topic: "SurvivEHR: a competing risks, time-toevent foundation model for multiple longterm conditions from primary care electronic health records"
   location: "DRC II 6001"  
 
 - date: "2026-10-05"
@@ -299,6 +299,26 @@
   location: "DRC II 6001"
 
 - date: "2026-10-12"
+  presenter: "Liang Zhao"
+  topic: "Masked Autoencoders Are Scalable Vision Learners"
+  location: "DRC II 6001"
+
+- date: "2026-10-26"
+  presenter: "-"
+  topic: "No presentation today"
+  location: "DRC II 6001"
+
+- date: "2026-11-9"
+  presenter: "Ruobing Liu"
+  topic: "Deep representation learning for clustering longitudinal survival data from electronic health records"
+  location: "DRC II 3001"
+
+- date: "2026-11-23"
+  presenter: "Esther Ugwueke"
+  topic: "TBA"
+  location: "DRC II 6001"
+
+- date: "2026-12-7"
   presenter: "Liang Zhao"
   topic: "TBA"
   location: "DRC II 6001"
