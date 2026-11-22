@@ -1,0 +1,26 @@
+.meetings-table {
+  width: 100%;
+  table-layout: fixed;      /* key: stops auto-resizing by content */
+  border-collapse: collapse;
+}
+
+.meetings-table th,
+.meetings-table td {
+  padding: 0.5rem 0.75rem;
+  vertical-align: top;
+  overflow-wrap: anywhere;  /* breaks long words/strings instead of widening columns */
+  word-break: break-word;
+}
+
+/* Set widths for each column */
+.meetings-table th:nth-child(1),
+.meetings-table td:nth-child(1) { width: 12%; }  /* Date */
+
+.meetings-table th:nth-child(2),
+.meetings-table td:nth-child(2) { width: 18%; }  /* Presenter */
+
+.meetings-table th:nth-child(3),
+.meetings-table td:nth-child(3) { width: 50%; }  /* Topic */
+
+.meetings-table th:nth-child(4),
+.meetings-table td:nth-child(4) { width: 20%; }  /* Location */
